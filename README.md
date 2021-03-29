@@ -9,6 +9,11 @@ Portfolio now and couting! Do not hesitate to check it out!
 Variety of foods ->
 
 https://rookasrudzianskas.github.io/varietyfoods/
+
+Django Flash Cards web app ->
+
+https://rookasflashcards.herokuapp.com/
+
 <!---
 rookasrudzianskas/rookasrudzianskas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
