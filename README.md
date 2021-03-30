@@ -18,6 +18,10 @@ The pure JavaScript written project, called JS sports tracker, it tracks your pr
 
 https://rookasrudzianskas.github.io/JS-sports-tracker/
 
+The pure JavaScript written project, called JS photo editing app, it is an web app, which can edit photos in basic styles! ->
+
+https://rookasrudzianskas.github.io/photoeditingapp/
+
 <!---
 rookasrudzianskas/rookasrudzianskas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
