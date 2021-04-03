@@ -12,6 +12,10 @@ https://rookasrudzianskas.github.io/Portfolio_Website/
 
 And also some cool projects, for you to check out! 
 
+VUE JS Creative Cards Editor with many cool features ->
+
+https://app-creative-cards.netlify.app
+
 Variety of foods ->
 
 https://rookasrudzianskas.github.io/varietyfoods/
