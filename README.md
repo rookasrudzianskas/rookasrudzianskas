@@ -14,6 +14,10 @@ This is the unique way to get to know unique cars, do not hesitate to check it o
 
 https://rookasrudzianskas.github.io/Cars_Experiance/
 
+This is the React Framework Tic Tac Toe app from with futuristic design, go and try one session! The link below ->
+
+https://tictactoeapp.surge.sh/
+
 And also some cool projects, for you to check out! 
 
 VUE JS Creative Cards Editor with many cool features ->
