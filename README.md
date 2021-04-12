@@ -44,6 +44,14 @@ Django Flash Cards web app ->
 
 https://rookasflashcards.herokuapp.com/
 
+Django affiliate website "Treadmill Deals" ->
+
+https://treadmill-deals.herokuapp.com/
+
+Royal Headphones dropshipping website ->
+
+www.royalheadphones.com
+
 The pure JavaScript written project, called JS sports tracker, it tracks your progress, and at the end shows the cake diagram! ->
 
 https://rookasrudzianskas.github.io/JS-sports-tracker/
