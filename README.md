@@ -26,6 +26,10 @@ This is the React Framework Tic Tac Toe app from with futuristic design, go and 
 
 https://tictactoeapp.surge.sh/
 
+This is strange project, Octo Pizza planet system! Check it out, the link below! ->
+
+https://octo-pizza-planet.netlify.app/
+
 And also some cool projects, for you to check out! 
 
 VUE JS Creative Cards Editor with many cool features ->
