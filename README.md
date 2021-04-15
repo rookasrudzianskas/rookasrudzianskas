@@ -36,6 +36,10 @@ VUE JS Creative Cards Editor with many cool features ->
 
 https://app-creative-cards.netlify.app
 
+This is the Quasar VUE Framework Twitter clone, written by me ->
+
+https://rookastwitter-app.netlify.app/#/
+
 Variety of foods ->
 
 https://rookasrudzianskas.github.io/varietyfoods/
