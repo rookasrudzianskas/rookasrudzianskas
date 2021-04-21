@@ -44,6 +44,10 @@ This is the Quasar VUE Framework Twitter clone, written by me ->
 
 https://rookastwitter-app.netlify.app/#/
 
+This is the recreated Instagram, called QGram! Check it out, and hit one post! ->
+
+https://qgram-2b8fd.web.app/#/
+
 Variety of foods ->
 
 https://rookasrudzianskas.github.io/varietyfoods/
