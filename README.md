@@ -38,6 +38,10 @@ I present you the weather app, built on Quasar framework, the whole new framwork
 
 https://app-qweather.netlify.app/#/
 
+This is todo app, made using Quasar framwork, pretty dam good, build on iOS and experiance it ->
+
+https://app-awesometodo.netlify.app/#/
+
 This is the React Framework Tic Tac Toe app from with futuristic design, go and try one session! The link below ->
 
 https://tictactoeapp.surge.sh/
