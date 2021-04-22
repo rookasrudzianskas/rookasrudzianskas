@@ -26,6 +26,10 @@ This is the travelling agency website! ->
 
 https://rookasrudzianskas.github.io/Travellers-website/
 
+This is my newest project, it is the whole working chat application for phones, desktops, web. Written in react with love, check it out here -> 
+
+https://glowing-computer-chat-app.web.app/signin
+
 This is the React Framework Tic Tac Toe app from with futuristic design, go and try one session! The link below ->
 
 https://tictactoeapp.surge.sh/
