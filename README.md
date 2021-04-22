@@ -30,6 +30,10 @@ This is my newest project, it is the whole working chat application for phones, 
 
 https://glowing-computer-chat-app.web.app/signin
 
+I present you the weather app, built on Quasar framework, the whole new framwork, which lets to build on all platforms. This is the weather app, try it on your phones too ->
+
+https://app-qweather.netlify.app/#/
+
 This is the React Framework Tic Tac Toe app from with futuristic design, go and try one session! The link below ->
 
 https://tictactoeapp.surge.sh/
