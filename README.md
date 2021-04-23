@@ -50,6 +50,10 @@ This is strange project, Octo Pizza planet system! Check it out, the link below!
 
 https://octo-pizza-planet.netlify.app/
 
+This one, is the FLASK framwork CRUD system, written by me, do not be scared to check it out! And hit some love ->
+
+https://app-aboutrookas.herokuapp.com/
+
 And also some cool projects, for you to check out! 
 
 VUE JS Creative Cards Editor with many cool features ->
