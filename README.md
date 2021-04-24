@@ -30,6 +30,11 @@ This is the travelling agency website! ->
 
 https://rookasrudzianskas.github.io/Travellers-website/
 
+Go, and hit like for awesome todo app! Hit some love to it ->
+
+
+https://app-legittodo.netlify.app
+
 This is my newest project, it is the whole working chat application for phones, desktops, web. Written in react with love, check it out here -> 
 
 https://glowing-computer-chat-app.web.app/signin
