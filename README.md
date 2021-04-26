@@ -12,6 +12,10 @@ https://rookasrudzianskas.github.io/Portfolio_Website/
 
 This is the website, I made for the travel agency, check it out ->
 
+Crazy thing there, AI, which helps to write ->
+
+https://rookasrudzianskas.github.io/Paster/
+
 https://rookasrudzianskas.github.io/Travellers-website/
 
 This is the Movies and actors API website, to search for films and the actors who were involved in that film ->
