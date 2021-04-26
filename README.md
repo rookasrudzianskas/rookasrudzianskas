@@ -18,6 +18,10 @@ This is animated website, for wine house in the USA ->
 
 https://rookasrudzianskas.github.io/Animated-wine-house-website/
 
+This is the real instagram clone, written it pure react! Check it out, upload some images and enjoy ->
+
+https://instagram-clone-react-f4410.web.app/ 🚀
+
 This is the website, I made for the travel agency, check it out ->
 
 https://rookasrudzianskas.github.io/Travellers-website/
