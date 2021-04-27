@@ -22,6 +22,10 @@ This is the real instagram clone, written it pure react! Check it out, upload so
 
 https://instagram-clone-react-f4410.web.app/ 🚀
 
+This absolutely amazing netlfix clone, check it out ->
+
+https://netflix-clone-c5fd3.web.app
+
 This is the website, I made for the travel agency, check it out ->
 
 https://rookasrudzianskas.github.io/Travellers-website/
