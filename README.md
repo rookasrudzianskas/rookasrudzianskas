@@ -15,7 +15,7 @@ Crazy thing there, AI, which helps to write ->
 https://rookasrudzianskas.github.io/Paster/
 
 
-########### My New Love, Making React JS web apps, check them all out, fully ready to use! ###########
+########### My New Love, Making React JS web apps, check them all out, fully ready to use! ########### 🔥 🚀
 
 
 This absolutely amazing netlfix clone, check it out (REACT) ->
