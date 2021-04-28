@@ -14,17 +14,34 @@ Crazy thing there, AI, which helps to write ->
 
 https://rookasrudzianskas.github.io/Paster/
 
-This is animated website, for wine house in the USA ->
 
-https://rookasrudzianskas.github.io/Animated-wine-house-website/
+########### My New Love, Making React JS web apps, check them all out, fully ready to use! ###########
 
-This is the real instagram clone, written it pure react! Check it out, upload some images and enjoy ->
+
+This absolutely amazing netlfix clone, check it out (REACT) ->
+
+https://netflix-clone-c5fd3.web.app
+
+This is my recent project, called mesenger clone, check it out, it is written in react (REACT) -> 
+
+https://facebook-messenger-clo-7bc45.web.app/
+
+Go, and hit like for awesome todo app! Hit some love to it (REACT) ->
+
+https://app-legittodo.netlify.app
+
+This is the real instagram clone, written it pure react! Check it out, upload some images and enjoy (REACT)->
 
 https://instagram-clone-react-f4410.web.app/ 🚀
 
-This absolutely amazing netlfix clone, check it out ->
 
-https://netflix-clone-c5fd3.web.app
+
+
+############### CRAZY THINGS ################
+
+This is animated website, for wine house in the USA ->
+
+https://rookasrudzianskas.github.io/Animated-wine-house-website/
 
 This is the website, I made for the travel agency, check it out ->
 
@@ -46,18 +63,9 @@ This is the website, I designed for the architects! ->
 
 https://rookasrudzianskas.github.io/Architect_website/
 
-This is my recent project, called mesenger clone, check it out, it is written in react -> 
-
-https://facebook-messenger-clo-7bc45.web.app/
-
 This is the travelling agency website! -> 
 
 https://rookasrudzianskas.github.io/Travellers-website/
-
-Go, and hit like for awesome todo app! Hit some love to it ->
-
-
-https://app-legittodo.netlify.app
 
 This is my newest project, it is the whole working chat application for phones, desktops, web. Written in react with love, check it out here -> 
 
