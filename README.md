@@ -25,6 +25,10 @@ This absolutely amazing netlfix clone, check it out (REACT) ->
 
 https://netflix-clone-c5fd3.web.app
 
+Damn, COVID-21 Tracker, hit some love to it ->
+
+https://covid-19-tracker-a847c.web.app/
+
 This is my recent project, called mesenger clone, check it out, it is written in react (REACT) -> 
 
 https://facebook-messenger-clo-7bc45.web.app/
