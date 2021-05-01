@@ -25,6 +25,10 @@ This absolutely amazing netlfix clone, check it out (REACT) ->
 
 https://netflix-clone-c5fd3.web.app
 
+This is the app, I am so excited about, after one week of hard work, I can show you a fully working amazon clone with REACT! It is 1 to 1, has full functionality! Written in (REACT) ->
+
+https://clone-17aee.web.app/
+
 Damn, COVID-21 Tracker, hit some love to it ->
 
 https://covid-19-tracker-a847c.web.app/
