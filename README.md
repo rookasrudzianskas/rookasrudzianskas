@@ -20,6 +20,9 @@ https://app-craiglist.herokuapp.com
 
 ########### My New Love, Making React JS web apps, check them all out, fully ready to use! ########### 🔥 🚀
 
+This is awesome Tinder Clone, check it out! It uses firebase, React and is an incredible application! (REACT) ->
+
+https://tinder-clone-da3e2.web.app/
 
 This absolutely amazing netlfix clone, check it out (REACT) ->
 
