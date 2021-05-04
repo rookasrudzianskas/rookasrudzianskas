@@ -24,6 +24,10 @@ https://app-craiglist.herokuapp.com
 
 ########### My New Love, Making React JS web apps, check them all out, fully ready to use! ########### 🔥 🚀
 
+Tik Tok, I have never liked tik tok, but then I build one by myself, I get used to love it! Check it out here (REACT) ->
+
+https://tik-tok-clone-4194c.web.app
+
 This is awesome Tinder Clone, check it out! It uses firebase, React and is an incredible application! (REACT) ->
 
 https://tinder-clone-da3e2.web.app/
