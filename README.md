@@ -28,6 +28,10 @@ https://app-craiglist.herokuapp.com
 
 ########### My New Love, Making React JS web apps, check them all out, fully ready to use! ########### 🔥 🚀
 
+The app - all people love, I love, the all world loves, it is recreated and taking place in this link ->
+
+https://app-spotify.netlify.app
+
 Tik Tok, I have never liked tik tok, but then I build one by myself, I get used to love it! Check it out here (REACT) ->
 
 https://tik-tok-clone-4194c.web.app
