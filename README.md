@@ -28,6 +28,10 @@ https://app-craiglist.herokuapp.com
 
 ########### My New Love, Making React JS web apps, check them all out, fully ready to use! ########### 🔥 🚀
 
+Another Twitter clone, just this time, it is written in REACT, go and check it out, fully deployed to the firebase -> 🔥
+
+https://twitter-clone-b6eb7.web.app/
+
 The app - all people love, I love, the all world loves, it is recreated and taking place in this link ->
 
 https://app-spotify.netlify.app
