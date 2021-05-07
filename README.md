@@ -32,6 +32,10 @@ Another Twitter clone, just this time, it is written in REACT, go and check it o
 
 https://twitter-clone-b6eb7.web.app/
 
+Another amazing app, this time it is slack, no privacy leaks, just the safe and friendly environment to chat, feel free to use it! Go and check it out! (REACT) ->
+
+https://slack-clone-cbc0b.web.app/
+
 The app - all people love, I love, the all world loves, it is recreated and taking place in this link ->
 
 https://app-spotify.netlify.app
