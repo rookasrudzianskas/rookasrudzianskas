@@ -36,6 +36,10 @@ Another Twitter clone, just this time, it is written in REACT, go and check it o
 
 https://twitter-clone-b6eb7.web.app/
 
+This is instagram reels clone, the structure is almmost the same as TIK TOK, but a little bit different, it was fun to make, hope you enjoy trying it out (REACT) ->
+
+https://instagram-reels-5205f.web.app
+
 Another amazing app, this time it is slack, no privacy leaks, just the safe and friendly environment to chat, feel free to use it! Go and check it out! (REACT) ->
 
 https://slack-clone-cbc0b.web.app/
