@@ -176,6 +176,10 @@ Django affiliate website "Treadmill Deals" ->
 
 https://treadmill-deals.herokuapp.com/
 
+VUETIFY weather app goes live in this link ->
+
+https://roookas-weather-app.netlify.app/#/
+
 Royal Headphones dropshipping website ->
 
 www.royalheadphones.com
