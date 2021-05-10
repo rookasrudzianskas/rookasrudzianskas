@@ -32,6 +32,10 @@ https://app-craiglist.herokuapp.com
 
 ########### My New Love, Making React JS web apps, check them all out, fully ready to use! ########### 🔥 🚀
 
+This is fully usable and scalable chat application, login with google and enjoy! (REACT) -> 🔥
+
+https://whatsapp-clone-c6b92.web.app
+
 Another Twitter clone, just this time, it is written in REACT, go and check it out, fully deployed to the firebase -> 🔥
 
 https://twitter-clone-b6eb7.web.app/
