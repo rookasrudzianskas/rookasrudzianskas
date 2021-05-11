@@ -32,6 +32,10 @@ https://app-craiglist.herokuapp.com
 
 ########### My New Love, Making React JS web apps, check them all out, fully ready to use! ########### 🔥 🚀
 
+Hulu, Hulu, this is amazing, next app created, is Hulu, check this out in the link below -> (REACT) ->
+
+https://hulu-app-d2610.web.app/
+
 The amazing, Google clone, deployed in Firebase which is owned by Google 🚀 (REACT) ->
 
 https://app-search-system.web.app
