@@ -32,6 +32,10 @@ https://app-craiglist.herokuapp.com
 
 ########### My New Love, Making React JS web apps, check them all out, fully ready to use! ########### 🔥 🚀
 
+Beutiful, responsive, connencted to the firebase, with ability to post, login, the Rokas Facebook app is out (REACT) ->
+
+https://rokas-facebook-app.web.app/
+
 Hulu, Hulu, this is amazing, next app created, is Hulu, check this out in the link below -> (REACT) ->
 
 https://hulu-app-d2610.web.app/
