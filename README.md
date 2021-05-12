@@ -80,6 +80,10 @@ This absolutely amazing netlfix clone, check it out (REACT) ->
 
 https://netflix-clone-c5fd3.web.app
 
+This is youtube thumbnails changer, to see how it looks like -> 
+
+https://rokas-thumbnail-app.web.app/
+
 This is the app, I am so excited about, after one week of hard work, I can show you a fully working amazon clone with REACT! It is 1 to 1, has full functionality! Written in (REACT) ->
 
 https://clone-17aee.web.app/
