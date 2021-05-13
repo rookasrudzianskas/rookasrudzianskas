@@ -32,6 +32,10 @@ https://app-craiglist.herokuapp.com
 
 ########### My New Love, Making React JS web apps, check them all out, fully ready to use! ########### 🔥 🚀
 
+GMAIL, new and awesome design for the gmail! (REACT) -> 
+
+https://rokas-email-app.web.app
+
 Beutiful, responsive, connencted to the firebase, with ability to post, login, the Rokas Facebook app is out (REACT) ->
 
 https://rokas-facebook-app.web.app/
