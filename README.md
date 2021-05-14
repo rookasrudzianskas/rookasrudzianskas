@@ -18,6 +18,10 @@ Crazy thing there, AI, which helps to write ->
 
 https://rookasrudzianskas.github.io/Paster/
 
+Second time rebuilding the Amazon, now I am back with much cooler build, with full eccommerce functionality integrated, go and buy something, the prices are cheap here ->
+
+https://rookas-amzon-app.web.app/
+
 The new apple product website, check it out! -> 
 
 https://rookasrudzianskas.github.io/Scaling-Apple-Website/
