@@ -14,6 +14,10 @@ One more Qasar framework project, I just love how simple it is to build the app 
 
 https://epic-qtodo-app.netlify.app/#/
 
+Amazon app, with integrated payment, real products and many more, go and check it out ->
+
+https://rookas-amzon-app.web.app/
+
 Crazy thing there, AI, which helps to write ->
 
 https://rookasrudzianskas.github.io/Paster/
