@@ -122,6 +122,10 @@ https://airbnb-clone-8f294.web.app
 
 ############### CRAZY THINGS ################
 
+This is pinterest app, go and check it out ->
+
+https://rookas-pinterest-app.web.app/
+
 This is animated website, for wine house in the USA ->
 
 https://rookasrudzianskas.github.io/Animated-wine-house-website/
