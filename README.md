@@ -14,6 +14,11 @@ One more Qasar framework project, I just love how simple it is to build the app 
 
 https://epic-qtodo-app.netlify.app/#/
 
+Slick Disney Plus system written in React -> 
+
+https://rookas-disney-plus-app.web.app/
+
+
 Amazon app, with integrated payment, real products and many more, go and check it out ->
 
 https://rookas-amzon-app.web.app/
