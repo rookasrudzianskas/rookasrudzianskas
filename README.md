@@ -18,6 +18,10 @@ LinkedIn app, made by me using my ❤️ REACT ->
 
 https://rookas-linkedin-app.web.app/home
 
+This is whole new gmail app, created by me, with REACT, go and check it out ->
+
+https://rookas-gemail-app.web.app/
+
 Slick Disney Plus system written in React -> 
 
 https://rookas-disney-plus-app.web.app/
