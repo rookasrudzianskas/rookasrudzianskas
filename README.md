@@ -14,6 +14,10 @@ One more Qasar framework project, I just love how simple it is to build the app 
 
 https://epic-qtodo-app.netlify.app/#/
 
+LinkedIn app, made by me using my ❤️ REACT ->
+
+https://rookas-linkedin-app.web.app/home
+
 Slick Disney Plus system written in React -> 
 
 https://rookas-disney-plus-app.web.app/
