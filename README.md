@@ -14,6 +14,10 @@ One more Qasar framework project, I just love how simple it is to build the app 
 
 https://epic-qtodo-app.netlify.app/#/
 
+SnapChat app, go and check it out, works like an app and better (REACT) ->
+
+https://rookas-snapchat-app.web.app/
+
 LinkedIn app, made by me using my ❤️ REACT ->
 
 https://rookas-linkedin-app.web.app/home
