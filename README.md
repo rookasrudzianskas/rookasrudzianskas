@@ -30,6 +30,10 @@ SnapChat app, go and check it out, works like an app and better (REACT) ->
 
 https://rookas-snapchat-app.web.app/
 
+Linnkedin app, the second version, much better than the first one 👨‍🚀 ->
+
+https://rookas-linkedin-app-version-2.web.app
+
 LinkedIn app, made by me using my ❤️ REACT ->
 
 https://rookas-linkedin-app.web.app/home
