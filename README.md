@@ -18,6 +18,10 @@ This is whatsapp second version, made with NEXT JS, try it out! 1-1 chats ->
 
 https://rookas-whatsapp.vercel.app/
 
+Netflix challenge, NETLFIX version 2.0, written in REACT, payments and logins supported! ->
+
+https://rookas-netflix-app.web.app
+
 Best from the best one, after days of work, finally finished Clubhouse app, it is live & online, do not hesitate to go to the link and check it out! ->
 
 https://rookas-clubhouse-app.web.app/
