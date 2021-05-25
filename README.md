@@ -14,6 +14,10 @@ My app and website portfolio website, go and check it out too ->
 
 https://rookasrudzianskas.github.io/Business-Agency-Website-Template/
 
+This is whatsapp second version, made with NEXT JS, try it out! 1-1 chats ->
+
+https://rookas-whatsapp.vercel.app/
+
 Best from the best one, after days of work, finally finished Clubhouse app, it is live & online, do not hesitate to go to the link and check it out! ->
 
 https://rookas-clubhouse-app.web.app/
