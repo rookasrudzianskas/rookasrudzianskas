@@ -14,6 +14,10 @@ My app and website portfolio website, go and check it out too ->
 
 https://rookasrudzianskas.github.io/Business-Agency-Website-Template/
 
+This is Google APP, written in NEXTJS Framework, use Google search API, server side rendering and more ->
+
+https://google-app.vercel.app/
+
 This is whatsapp second version, made with NEXT JS, try it out! 1-1 chats ->
 
 https://rookas-whatsapp.vercel.app/
