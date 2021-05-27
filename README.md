@@ -14,6 +14,10 @@ My app and website portfolio website, go and check it out too ->
 
 https://rookasrudzianskas.github.io/Business-Agency-Website-Template/
 
+This is Hulu app @2, check it out in here ->
+
+https://hulu-app-sandy.vercel.app/
+
 This is Google APP, written in NEXTJS Framework, use Google search API, server side rendering and more ->
 
 https://google-app.vercel.app/
