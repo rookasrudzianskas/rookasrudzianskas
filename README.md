@@ -26,6 +26,10 @@ This is Hulu app @2, check it out in here ->
 
 https://hulu-app-sandy.vercel.app/
 
+This is Tesla Clone UI, it is mobile friendly too ->
+
+https://rookas-tesla-app.web.app
+
 This is Google APP, written in NEXTJS Framework, use Google search API, server side rendering and more ->
 
 https://google-app.vercel.app/
