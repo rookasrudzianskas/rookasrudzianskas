@@ -18,6 +18,10 @@ This is facebook, with NextJs, Tailwind css and more ->
 
 https://roookas-facebook-app.vercel.app/
 
+This is another Discord app made by me, definetly go and give some love to it ->
+
+https://rookas-discord-app.web.app
+
 This is tinder in MERN ->
 
 https://rookas-tinder-app-mern.web.app/
