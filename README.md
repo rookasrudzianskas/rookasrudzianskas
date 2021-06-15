@@ -14,6 +14,10 @@ This is super awesome Twitch app, made by me! ->
 
 https://rookas-twitch-app.web.app
 
+Slack in MERN ->
+
+https://rookas-slack-mern-app.web.app
+
 My app and website portfolio website, go and check it out too ->
 
 https://rookasrudzianskas.github.io/Business-Agency-Website-Template/
