@@ -6,7 +6,7 @@
 
 Portfolio now and couting! Do not hesitate to check it out!
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 My portfolio website with some creative stuff ->
