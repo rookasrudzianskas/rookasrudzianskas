@@ -16,7 +16,9 @@ My portfolio website with some creative stuff ->
 
 https://rookasrudzianskas.github.io/Portfolio_Website/
 
-This is new build, now it is Telegram app, looks incredible, check it out and give some ❤️
+This is new build, now it is Telegram app, looks incredible, check it out and give some ❤️ ->
+
+https://rookas-telegram-app.web.app
 
 This is super awesome Twitch app, made by me! ->
 
