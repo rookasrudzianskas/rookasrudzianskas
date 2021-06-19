@@ -6,7 +6,7 @@
 
 Portfolio now and couting! Do not hesitate to check it out!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Glad to see you there 🤙 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 My portfolio website with some creative stuff ->
