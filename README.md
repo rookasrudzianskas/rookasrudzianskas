@@ -20,6 +20,10 @@ This is new build, now it is Telegram app, looks incredible, check it out and gi
 
 https://rookas-telegram-app.web.app
 
+This one, is super cool, discord in MERN stack ->
+
+https://rookas-discord-mern-app.web.app
+
 This is super awesome Twitch app, made by me! ->
 
 https://rookas-twitch-app.web.app
