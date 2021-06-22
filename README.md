@@ -28,6 +28,10 @@ This one, is super cool, discord in MERN stack ->
 
 https://rookas-discord-mern-app.web.app
 
+This is paypal checkout integration in here ->
+
+https://rookas-pay-pal-checkout.web.app
+
 This is super awesome Twitch app, made by me! ->
 
 https://rookas-twitch-app.web.app
