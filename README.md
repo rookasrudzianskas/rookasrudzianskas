@@ -350,7 +350,7 @@ https://rookasrudzianskas.github.io/photoeditingapp/
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=drakosi99&show_icons=true&hide_border=true" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rookasrudzianskas&show_icons=true&hide_border=true" />
 
 </details>
 </div>
@@ -358,7 +358,7 @@ https://rookasrudzianskas.github.io/photoeditingapp/
 <div>
 <details>
   <summary>GitHub History</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakosi99&" alt="drakosi99" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rookasrudzianskas&" alt="rookasrudzianskas" /></p>
 .
 </details>
 </div>
@@ -367,7 +367,7 @@ https://rookasrudzianskas.github.io/photoeditingapp/
 <details>
   <summary>Most Used Languages</summary>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drakosi99&show_icons=true&locale=en&layout=compact" alt="drakosi99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rookasrudzianskas&show_icons=true&locale=en&layout=compact" alt="rookasrudzianskas" /></p>
 </details>
 </div>
 
