@@ -344,6 +344,34 @@ The pure JavaScript written project, called JS photo editing app, it is an web a
 
 https://rookasrudzianskas.github.io/photoeditingapp/
 
+<br>
+
+<div>
+<details>
+  <summary>GitHub Stats</summary>
+
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=drakosi99&show_icons=true&hide_border=true" />
+
+</details>
+</div>
+
+<div>
+<details>
+  <summary>GitHub History</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakosi99&" alt="drakosi99" /></p>
+.
+</details>
+</div>
+
+<div>
+<details>
+  <summary>Most Used Languages</summary>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drakosi99&show_icons=true&locale=en&layout=compact" alt="drakosi99" /></p>
+</details>
+</div>
+
+
 <!---
 rookasrudzianskas/rookasrudzianskas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
