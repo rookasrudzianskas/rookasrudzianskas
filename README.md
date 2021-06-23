@@ -4,6 +4,19 @@
 - 💞️ I’m looking to collaborate on startup projects
 - 📫 How to reach me rokas.rudzenskas@gmail.com
 
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JSX          29 hrs 26 mins  ███████████████████████▓░   94.96 % 
+JavaScript   1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+<!--END_SECTION:waka-->
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
 Portfolio now and couting! Do not hesitate to check it out!
 
 Glad to see you there 🤙 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
