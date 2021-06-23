@@ -4,6 +4,20 @@
 - 💞️ I’m looking to collaborate on startup projects
 - 📫 How to reach me rokas.rudzenskas@gmail.com
 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Rokas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/byrookas">
+  <img align="left" alt="Rokas Rudzianskas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rokasrudzianskas/">
+  <img align="left" alt="Rokas's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Rokas's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
