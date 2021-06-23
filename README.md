@@ -47,7 +47,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JSX          29 hrs 26 mins  ███████████████████████▓░   94.96 % 
+JSX          100 hrs 26 mins  ███████████████████████▓░   94.96 % 
 JavaScript   1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
@@ -77,6 +77,10 @@ Glad to see you there 🤙 ![visitors](https://visitor-badge.glitch.me/badge?pag
 My portfolio website with some creative stuff ->
 
 https://rookasrudzianskas.github.io/Portfolio_Website/
+
+This is Robinson stock trading app in REACT ->
+
+https://rookas-robinhood-app.web.app/
 
 This is new build, now it is Telegram app, looks incredible, check it out and give some ❤️ ->
 
