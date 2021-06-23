@@ -43,7 +43,7 @@ This is super awesome Twitch app, made by me! ->
 
 https://rookas-twitch-app.web.app
 
-Slack in MERN ->
+Slack in MERN COOL ❤️ ->
 
 https://rookas-slack-mern-app.web.app
 
