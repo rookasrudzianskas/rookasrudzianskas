@@ -11,7 +11,7 @@ Portfolio now and couting! Do not hesitate to check it out!
 
 Glad to see you there 🤙 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/anuraghazra/github-readme-stats)
+[![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
 
 
 
