@@ -89,6 +89,10 @@ This one, is super cool, discord in MERN stack ->
 
 https://rookas-discord-mern-app.web.app
 
+Disney ->
+
+https://rookas-disney-plus.web.app
+
 This is paypal checkout integration in here ->
 
 https://rookas-pay-pal-checkout.web.app
