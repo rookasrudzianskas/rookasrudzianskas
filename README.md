@@ -65,8 +65,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 Portfolio now and couting! Do not hesitate to check it out!
 
-Glad to see you there 🤙 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 [![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
 
 
