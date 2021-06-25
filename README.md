@@ -20,9 +20,7 @@
 
 <br />
 
-Hi, I'm [Rokas Rudzianskas](https://byrookas.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from Lithuania || USA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm [Rokas Rudzianskas](https://byrookas.com/), a passionate self-taught web developer and a freelance software developer from Lithuania || USA. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
