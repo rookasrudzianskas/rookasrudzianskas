@@ -440,6 +440,134 @@ https://rookasrudzianskas.github.io/photoeditingapp/
 </details>
 </div>
 
+<div>
+<details>
+  <summary>React Portfolio Projects</summary>
+
+  GMAIL, new and awesome design for the gmail! (REACT) -> 
+
+https://rokas-email-app.web.app
+
+Beutiful, responsive, connencted to the firebase, with ability to post, login, the Rokas Facebook app is out (REACT) ->
+
+https://rokas-facebook-app.web.app/
+
+Hulu, Hulu, this is amazing, next app created, is Hulu, check this out in the link below -> (REACT) ->
+
+https://hulu-app-d2610.web.app/
+
+Imessage app, with full authentication, real time chat and many more features, go and check it out ->
+
+https://rookas-imessage-app.web.app/
+
+The amazing, Google clone, deployed in Firebase which is owned by Google 🚀 (REACT) ->
+
+https://app-search-system.web.app
+
+This is fully usable and scalable chat application, login with google and enjoy! (REACT) -> 🔥
+
+https://whatsapp-clone-c6b92.web.app
+
+Another Twitter clone, just this time, it is written in REACT, go and check it out, fully deployed to the firebase -> 🔥
+
+https://twitter-clone-b6eb7.web.app/
+
+This is instagram reels clone, the structure is almmost the same as TIK TOK, but a little bit different, it was fun to make, hope you enjoy trying it out (REACT) ->
+
+https://instagram-reels-5205f.web.app
+
+Another amazing app, this time it is slack, no privacy leaks, just the safe and friendly environment to chat, feel free to use it! Go and check it out! (REACT) ->
+
+https://slack-clone-cbc0b.web.app/
+
+The app - all people love, I love, the all world loves, it is recreated and taking place in this link ->
+
+https://app-spotify.netlify.app
+
+Tik Tok, I have never liked tik tok, but then I build one by myself, I get used to love it! Check it out here (REACT) ->
+
+https://tik-tok-clone-4194c.web.app
+
+This is awesome Tinder Clone, check it out! It uses firebase, React and is an incredible application! (REACT) ->
+
+https://tinder-clone-da3e2.web.app/
+
+Next day, next clone, this time, it is youtube clone written in REACT! (REACT) ->
+
+https://clone-33b47.web.app 🚀
+
+This absolutely amazing netlfix clone, check it out (REACT) ->
+
+https://netflix-clone-c5fd3.web.app
+
+This is youtube thumbnails changer, to see how it looks like -> 
+
+https://rokas-thumbnail-app.web.app/
+
+This is the app, I am so excited about, after one week of hard work, I can show you a fully working amazon clone with REACT! It is 1 to 1, has full functionality! Written in (REACT) ->
+
+https://clone-17aee.web.app/
+
+Damn, COVID-21 Tracker, hit some love to it ->
+
+https://covid-19-tracker-a847c.web.app/
+
+This is my recent project, called mesenger clone, check it out, it is written in react (REACT) -> 
+
+https://facebook-messenger-clo-7bc45.web.app/
+
+Go, and hit like for awesome todo app! Hit some love to it (REACT) ->
+
+https://app-legittodo.netlify.app
+
+This is the real instagram clone, written it pure react! Check it out, upload some images and enjoy (REACT)->
+
+https://instagram-clone-react-f4410.web.app/ 🚀
+
+This is absolutely stunning airbnb clone, check it out (REACT) 🚀 ->
+
+https://airbnb-clone-8f294.web.app
+
+############### CRAZY THINGS ################
+
+This is pinterest app, go and check it out ->
+
+https://rookas-pinterest-app.web.app/
+
+This is animated website, for wine house in the USA ->
+
+https://rookasrudzianskas.github.io/Animated-wine-house-website/
+
+This is the website, I made for the travel agency, check it out ->
+
+https://rookasrudzianskas.github.io/Travellers-website/
+
+This is the Movies and actors API website, to search for films and the actors who were involved in that film ->
+
+https://rookasrudzianskas.github.io/Cuddly-Box-Office/
+
+First API website written by me, to get to know my projects, startups, listed in the API format! Check it out -> 
+
+https://app-djangorestapi.herokuapp.com/
+
+This is the unique way to get to know unique cars, do not hesitate to check it ourt from the link below! ->
+
+https://rookasrudzianskas.github.io/Cars_Experiance/
+
+This is the website, I designed for the architects! -> 
+
+https://rookasrudzianskas.github.io/Architect_website/
+
+This is the travelling agency website! -> 
+
+https://rookasrudzianskas.github.io/Travellers-website/
+
+This is my newest project, it is the whole working chat application for phones, desktops, web. Written in react with love, check it out here -> 
+
+https://glowing-computer-chat-app.web.app/signin
+
+</details>
+</div>
 
 <!---
 rookasrudzianskas/rookasrudzianskas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
