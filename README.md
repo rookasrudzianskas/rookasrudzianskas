@@ -62,6 +62,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 90 days
 <!-- TODO-IST:END -->
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rookasrudzianskas&show_icons=true&theme=gotham" alt="rokasrudzianskas" />
+
+
 
 Portfolio now and couting! Do not hesitate to check it out!
 
