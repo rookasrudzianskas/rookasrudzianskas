@@ -85,6 +85,10 @@ This is new build, now it is Telegram app, looks incredible, check it out and gi
 
 https://rookas-telegram-app.web.app
 
+This one is fully functioning Developer Job search platform, open source, feel free to go deeper or search for work! ->
+
+https://rookas-job-search-app.web.app
+
 This is newly created Google drive app, everything works, AI integrated ->
 
 https://rookas-drive-app.web.app/
