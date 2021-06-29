@@ -70,6 +70,7 @@ Portfolio now and couting! Do not hesitate to check it out!
 
 [![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
 
+[![Roka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rookasrudzianskas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 My portfolio website with some creative stuff ->
