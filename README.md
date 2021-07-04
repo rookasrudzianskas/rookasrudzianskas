@@ -22,6 +22,10 @@
 
 Hi, I'm [Rokas Rudzianskas](https://byrookas.com/), a passionate self-taught web developer and a freelance software developer from Lithuania || USA. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐
 
+Two startups founder and the CEO - [Brainlyemails](https://brainlyemails.com/) and [CONNEXIOUS](https://connexious.com/). Feel free to check them out! 
+
+👋 Renture.rent startup which born yesterday, with the help of Gabriel. More? [Renture.rent](https://renture.rent/)
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
