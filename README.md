@@ -17,7 +17,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-Goal 200K per next week! 🔥
 
 <br />
 
