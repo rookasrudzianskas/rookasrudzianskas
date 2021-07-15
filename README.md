@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating the magical stuff with code 🖤
 - 🌱 I’m currently learning how to deal with data
 - 💞️ I’m looking to collaborate on startup projects
-- 📫 How to reach me rokas.rudzenskas@gmail.com or
+- 📫 How to reach me rokas.rudzenskas@gmail.com or hello@byrookas.com
 
 
 ### Glad to see you there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
