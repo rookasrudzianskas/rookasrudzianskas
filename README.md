@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rookasrudzianskas
 - 👀 I’m interested in creating the magical stuff with code 🖤
 - 🌱 I’m currently learning how to deal with data
-- 💞️ I’m looking to collaborate on startup projects
+- 💞️ I’m looking to collaborate on startup projects and future technologies
 - 📫 How to reach me rokas.rudzenskas@gmail.com
 
 
