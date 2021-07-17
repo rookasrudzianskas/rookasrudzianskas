@@ -31,6 +31,7 @@ Two startups founder and the CEO - [Brainlyemails](https://brainlyemails.com/) a
 
 - 💼 Any freelance work? Do reach, [email](mailto:rokas.rudzenskas@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
+~ Rookas
 
 **Languages and Tools:**  
 
