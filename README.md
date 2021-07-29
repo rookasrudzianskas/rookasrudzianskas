@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rookasrudzianskas
-- 👀 I’m interested in creating the magical stuff with code and mac🖤
+- 👀 I’m interested in creating the magical stuff with code and mac 🖤
 - 🌱 I’m currently learning how to deal with data
 - 💞️ I’m looking to collaborate on startup projects and future technologies
 - 📫 How to reach me rokas.rudzenskas@gmail.com
@@ -26,7 +26,7 @@ Two startups founder and the CEO - [Brainlyemails](https://brainlyemails.com/) a
 
 👋 Renture.rent startup which born couple weeks ago, with the help of Gabriel. More? [Renture.rent](https://renture.rent/) 🔥
 
-🔥 Currently working on the Uber app! (affiliate Uber app)
+🔥 Currently working on the Uber app! (affiliate Uber app) - [Uber Repository](https://github.com/rookasrudzianskas/Uber-React-Native)
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
