@@ -61,6 +61,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/rokasrudzianskas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwind css](https://tailwindcss.com/) 💻 🚀
+
+
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  8.901 Karma Points           
@@ -71,15 +74,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rookasrudzianskas&show_icons=true&theme=gotham" alt="rokasrudzianskas" />
 
-All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwind css](https://tailwindcss.com/) 💻 🚀
-
-Portfolio now and couting! Do not hesitate to check it out!
 
 [![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
 
 [![rookasrudzianskas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
 
-
+Portfolio now and couting! Do not hesitate to check it out!
+  
 My portfolio website with some creative stuff ->
 
 https://rookasrudzianskas.github.io/Portfolio_Website/
