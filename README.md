@@ -71,7 +71,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rookasrudzianskas&show_icons=true&theme=gotham" alt="rokasrudzianskas" />
 
-
+All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwind css](https://tailwindcss.com/) 💻 🚀
 
 Portfolio now and couting! Do not hesitate to check it out!
 
