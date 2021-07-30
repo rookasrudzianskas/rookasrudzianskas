@@ -69,7 +69,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 🏆  8.901 Karma Points           
 🌸  Completed 3 tasks today           
 ✅  Completed 904 tasks so far           
-⏳  Longest streak is 90 days
+⏳  Longest streak is 123 days
 <!-- TODO-IST:END -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rookasrudzianskas&show_icons=true&theme=gotham" alt="rokasrudzianskas" />
