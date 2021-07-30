@@ -75,9 +75,9 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rookasrudzianskas&show_icons=true&theme=gotham" alt="rokasrudzianskas" />
 
 
-[![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
+<p align="center">[![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
 
-[![rookasrudzianskas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
+
 
 Portfolio now and couting! Do not hesitate to check it out!
   
