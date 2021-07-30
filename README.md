@@ -73,6 +73,9 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 <!-- TODO-IST:END -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rookasrudzianskas&show_icons=true&theme=gotham" alt="rokasrudzianskas" />
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 [![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
