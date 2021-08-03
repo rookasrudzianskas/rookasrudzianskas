@@ -96,6 +96,10 @@ This is starbucks in REACT ->
 
 https://rookas-starbucks-app.web.app/
 
+Amazon 5 build, what if amazon could look awesome?!
+  
+https://rookas-amazon-app-2.vercel.app/
+  
 This is new build, now it is Telegram app, looks incredible, check it out and give some ❤️ ->
 
 https://rookas-telegram-app.web.app
