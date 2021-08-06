@@ -80,7 +80,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 
 [![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
 
-
+Github Readme is in the update process! 🔥
 
 Portfolio now and couting! Do not hesitate to check it out!
   
