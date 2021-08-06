@@ -88,10 +88,6 @@ My portfolio website with some creative stuff ->
 
 https://rookasrudzianskas.github.io/Portfolio_Website/
 
-This is Robinson stock trading app in REACT ->
-
-https://rookas-robinhood-app.web.app/
-
 This is starbucks in REACT -> 
 
 https://rookas-starbucks-app.web.app/
