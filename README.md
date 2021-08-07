@@ -90,9 +90,9 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Kind of Google Drive, but made by me!  | [Rokas Drive 💻](https://rookas-drive-app.web.app/) |
 | Belowed Diney Plus, finally I made it!  | [Disney Plus 🎥](https://rookas-disney-plus.web.app) |
 | Simple paypal integration, was learning how to integrate it, so made this project to the reality | [Paypal Integration 💸](https://rookas-pay-pal-checkout.web.app) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| Of course, I love livestreams, planning to do in the future! I made my own Twitch (Simplified version, but updating!)  | [Rokas Twitch ⏱️](https://rookas-twitch-app.web.app) |
+| Facebook! At this project, started learning Tailwindcss, and it is so DAMN powerful! 🔥  | [Rokas Facebook App ⚽](https://roookas-facebook-app.vercel.app/) |
+| Nowdays we all use Discord, I managed to build one, by myself! Give some love 🖤 | [Rokas Discord App 🧔](https://rookas-discord-app.web.app) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
