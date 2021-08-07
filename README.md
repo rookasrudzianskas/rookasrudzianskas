@@ -116,9 +116,9 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Simple Google Remake! | [Rokas Google App 🏳️](https://app-search-system.web.app) |
 | User friendly and scalable chat application, I created it with inspiration of whatsapp  | [Rokas Chats 🇦🇶](https://whatsapp-clone-c6b92.web.app) |
 | Twitter? Here it is! Awesome build, was a lot of good time working on it!  | [Twitter Remake! 🐦](https://twitter-clone-b6eb7.web.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| Wait whaaat? Yeah, Instagram Reels are here! Was a lot of fun of making this one!  | [Rokas Instagram Reels! 📹](https://instagram-reels-5205f.web.app) |
+| Slack, another amazing build my me! No privacy leaks, incredible design and loads of power!  | [Slack App 🉑](https://slack-clone-cbc0b.web.app/) |
+| The app - you love, I love, all world loves! Finally I made big step and made it live! Present you Spotify  | [Rokas Spotify 🎵](https://app-spotify.netlify.app)|
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
