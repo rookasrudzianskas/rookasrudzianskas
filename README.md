@@ -81,7 +81,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 [![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
   
   
-| Github Readme is in the update process! 🔥  | Let's start with my Greated React projects 🚀 |
+| Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
 | ------------- | ------------- |
 | Well known Starbucks website remake  | [Starbucks ☕](https://rookas-starbucks-app.web.app/)  |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
@@ -119,6 +119,20 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Wait whaaat? Yeah, Instagram Reels are here! Was a lot of fun of making this one!  | [Rokas Instagram Reels! 📹](https://instagram-reels-5205f.web.app) |
 | Slack, another amazing build my me! No privacy leaks, incredible design and loads of power!  | [Slack App 🉑](https://slack-clone-cbc0b.web.app/) |
 | The app - you love, I love, all world loves! Finally I made big step and made it live! Present you Spotify  | [Rokas Spotify 🎵](https://app-spotify.netlify.app)|
+| Tik Tok, I have never liked tik tok, but then I build one by myself, I get used to love it!  | [Rokas Tik Tok App 🎹](https://tik-tok-clone-4194c.web.app) |
+| Haha, this is Tinder App by me!  | [Tinder Rokas 📅](https://tinder-clone-da3e2.web.app/) |
+| Next day, so Youtube by me is here!  | [Rokas Youtube 🎮](https://clone-33b47.web.app 🚀) |
+| Totally mind blowind Netflix app! API, firebase involved here | [Rokas Netflix App 🎥](https://netflix-clone-c5fd3.web.app) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
