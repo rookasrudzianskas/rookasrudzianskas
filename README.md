@@ -82,8 +82,6 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
   
   
 | Github Readme is in the update process! 🔥  | Second Header |
-| Check out my Greates Projects, so far! 🚀  | Something in here |
-
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
