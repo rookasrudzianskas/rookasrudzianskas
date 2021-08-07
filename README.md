@@ -77,8 +77,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 [![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
- [![Rokas's GitHub stats]
-<p align="center"> (https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
+ [![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
   
   
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
