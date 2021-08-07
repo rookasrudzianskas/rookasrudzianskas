@@ -149,8 +149,12 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Learning Vuetify, so simple weather app with API integrated  | [Vuetify Testing App 🙂](https://roookas-weather-app.netlify.app/#/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| Alright, that is all with Vue JS and Quasar Framework builds, Let's start with projects I build with Bare HTML, JS, CSS3  | Keep scrolling for more awww somness!|
 
-
+| Github Readme is in the update process! 🔥  | Let's start with my Greatest Bare HTML, JS, CSS3 projects 🚀 |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
