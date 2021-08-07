@@ -99,12 +99,12 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | This is Google APP, written in NEXTJS Framework, use Google search API, server side rendering and more  | [Rokas Google! 📥](https://google-app.vercel.app/) |
 | I woke up today, and thought I want to create whatsapp! That is what I did! Server Side rendering, complicated Database stuff, Next JS, 1 to 1 chats!  | [Whatsapp Clone 2 ⛓️](https://rookas-whatsapp.vercel.app/) |
 | Alright Alright, many people were asking for Netflix in Next JS, I made it! Films, Netflix UI, logins, Payments, Subscriptions Management integrated!  | [Netflix app by me! 📷](https://rookas-netflix-app.web.app) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| Oh shit, noone have invited me to the ClubHouse, so I made one by myself! All features working! In React, using Bootstrap v5.0  | [Rokas Clubhouse Remake 🤘](https://rookas-clubhouse-app.web.app/) |
+| I always wanted to make Slack clone, finally it is here and live!  | [Slack App 📯](https://rookas-slack-app.web.app/) |
+| Snapchat but in React, all features are working! Was quite of a challenge to make one!  | [Rokas Snapchat 📸](https://rookas-snapchat-app.web.app/) |
+| Of course, this is the second version, of making LinkedIn! Tailwind, Next JS and a lot of hours of debugging!  | [Rokas LinkedIn 2 📑](https://rookas-linkedin-app-version-2.web.app) |
+| LinkedIn I made at first, was quite of a challenge, but the second version got much easier!  | [LinkedIn @1 🧏](https://rookas-linkedin-app.web.app/home) |
+| Why not Google Gmail? Full sending functionality, Advanced UI and a lot of hours I put to make this working realtime!  | [Rokas Gmail App 📧](https://rookas-gemail-app.web.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
