@@ -93,6 +93,18 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Of course, I love livestreams, planning to do in the future! I made my own Twitch (Simplified version, but updating!)  | [Rokas Twitch ⏱️](https://rookas-twitch-app.web.app) |
 | Facebook! At this project, started learning Tailwindcss, and it is so DAMN powerful! 🔥  | [Rokas Facebook App ⚽](https://roookas-facebook-app.vercel.app/) |
 | Nowdays we all use Discord, I managed to build one, by myself! Give some love 🖤 | [Rokas Discord App 🧔](https://rookas-discord-app.web.app) |
+| This was my second try to build the amazon in React. I have used next js framework, tailwindcss and included stripe payment system! Also using Fake Store API! Go and buy something! Just kidding haha 😄  | [Rokas Amazon App 3 🛍️](https://rookas-amazon-app.vercel.app/) |
+| I felt in love with Tailwind css and API stuff, so made fully working Hulu clone @2 🎥  | [Hulu App @2 🚀](https://hulu-app-sandy.vercel.app/) |
+| I drive Tesla, always wanted to recreate Tesla homepage, today I did! 😙 And It turned out very easy!  | [Rokas Tesla App 🚙](https://rookas-tesla-app.web.app) |
+| This is Google APP, written in NEXTJS Framework, use Google search API, server side rendering and more  | [Rokas Google! 📥](https://google-app.vercel.app/) |
+| I woke up today, and thought I want to create whatsapp! That is what I did! Server Side rendering, complicated Database stuff, Next JS, 1 to 1 chats!  | [Whatsapp Clone 2 ⛓️](https://rookas-whatsapp.vercel.app/) |
+| Alright Alright, many people were asking for Netflix in Next JS, I made it! Films, Netflix UI, logins, Payments, Subscriptions Management integrated!  | [Netflix app by me! 📷](https://rookas-netflix-app.web.app) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
