@@ -85,6 +85,10 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | ------------- | ------------- |
 | Well known Starbucks website remake  | [Starbucks ☕](https://rookas-starbucks-app.web.app/)  |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| We all use Telegram, here is one I made in React!  | [Telegram Redesigned 🤙](https://rookas-telegram-app.web.app) |
+| Now job search is pain in the a**, I made the platform, which simplifies it  | [Jobs Kingdom 👷](https://rookas-job-search-app.web.app) |
+
+
 
 Github Readme is in the update process! 🔥
 
