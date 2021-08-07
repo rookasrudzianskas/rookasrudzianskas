@@ -105,11 +105,11 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Of course, this is the second version, of making LinkedIn! Tailwind, Next JS and a lot of hours of debugging!  | [Rokas LinkedIn 2 📑](https://rookas-linkedin-app-version-2.web.app) |
 | LinkedIn I made at first, was quite of a challenge, but the second version got much easier!  | [LinkedIn @1 🧏](https://rookas-linkedin-app.web.app/home) |
 | Why not Google Gmail? Full sending functionality, Advanced UI and a lot of hours I put to make this working realtime!  | [Rokas Gmail App 📧](https://rookas-gemail-app.web.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| Second Time I built Disney Plus, but using React Styled Components!  | [Disney Clone 🏛️](https://rookas-disney-plus-app.web.app/) |
+| Okay, Okay, I love building Amazon, this was the first time learning stripe, I have managed to Integrate it to whole beautiful Amazon App | [Amazon App Redesigned! 🛍️](https://rookas-amzon-app.web.app/) |
+| Simple chat app in React app using firebas as the backend sollution  | [React Chat App 📧]( https://chat-app-5bfa5.web.app) |
+| In simple words, one more build of amazon, firebase as the backend  | [Amazon Firebase Backend 🛍️](https://rookas-amzon-app.web.app/) |
+| Simple but great new email service! Made and running by me!  | [Rokas email provider ↪️](https://rokas-email-app.web.app) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
