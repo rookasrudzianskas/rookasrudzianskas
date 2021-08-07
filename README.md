@@ -81,9 +81,9 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 [![Rokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookasrudzianskas)](https://github.com/rookasrudzianskas/github-readme-stats)
   
   
-| Github Readme is in the update process! 🔥  | Second Header |
+| Github Readme is in the update process! 🔥  | Let's start with my Greated React projects 🚀 |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Well known Starbucks website remake  | https://rookas-starbucks-app.web.app/  |
 | Content Cell  | Content Cell  |
 
 Github Readme is in the update process! 🔥
