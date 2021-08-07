@@ -138,8 +138,19 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Github Readme is in the update process! 🔥	  | Let's start with my Greates Vue JS and Quasar Framework projects 🚀 |
 | ------------- | ------------- |
 | Okay, this was very fun build, had loads of troubles here, but learned my mistakes, solved erros, added sound effects, CSS animations and enjoyed every minute of working on it!  | [Winner Picker Rokas App 🎁](https://winner-picker-d8b8f.web.app/#/) |
+| Simple Todo app with localbase, firebase integrations and more! It is written used VUE JS and Quasar Framework, working on Mac, Windows, iOs, android!  | [Epic Todo app 📑](https://epic-qtodo-app.netlify.app/#/) |
+| Legit Todo app  | [Rokas Todo 🌼](https://app-legittodo.netlify.app) |
+| I present you the weather app, built on Quasar framework, the whole new framwork, which lets to build on all platforms. This is the weather app, try it on your phones too  | [Rokas Weather App ⛈️](https://app-qweather.netlify.app/#/) |
+| This is todo app, made using Quasar framwork, pretty dam good, build on iOS and experiance it   | [Rokas Legit Todo 5 🔠](https://app-awesometodo.netlify.app/#/)|
+| Restaurant management system, written in plain VUE JS with firebase integration | [Octo Pizza planet ⚖️](https://octo-pizza-planet.netlify.app/) |
+| Gift cards editing software written by me in Vue JS, take a look, and edit one by yourself!  | [Rokas Cards Editing Soft 🗃️](https://app-creative-cards.netlify.app) |
+| What? God Damn it, I made the twitter in Quasar framework with firebase integrated! | [Rokas Twitter App New 🐦](https://rookastwitter-app.netlify.app/#/) |
+| Simple QGram, basically instagram in Quasar, I love it, was a lot of memories making this one!  | [QGram Rokas App 📴](https://qgram-2b8fd.web.app/#/) |
+| Learning Vuetify, so simple weather app with API integrated  | [Vuetify Testing App 🙂](https://roookas-weather-app.netlify.app/#/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+
+
 
 
 
