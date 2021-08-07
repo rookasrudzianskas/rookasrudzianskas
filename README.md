@@ -147,14 +147,12 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | What? God Damn it, I made the twitter in Quasar framework with firebase integrated! | [Rokas Twitter App New 🐦](https://rookastwitter-app.netlify.app/#/) |
 | Simple QGram, basically instagram in Quasar, I love it, was a lot of memories making this one!  | [QGram Rokas App 📴](https://qgram-2b8fd.web.app/#/) |
 | Learning Vuetify, so simple weather app with API integrated  | [Vuetify Testing App 🙂](https://roookas-weather-app.netlify.app/#/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | Alright, that is all with Vue JS and Quasar Framework builds, Let's start with projects I build with Bare HTML, JS, CSS3  | Keep scrolling for more awww somness!|
 
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest Bare HTML, JS, CSS3 projects 🚀 |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| The pure JavaScript written project, called JS photo editing app, it is an web app, which can edit photos in basic styles!  | [Simple Rokas Photoshop 📱](https://rookasrudzianskas.github.io/photoeditingapp/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 
 
 
