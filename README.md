@@ -110,6 +110,17 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Simple chat app in React app using firebas as the backend sollution  | [React Chat App 📧]( https://chat-app-5bfa5.web.app) |
 | In simple words, one more build of amazon, firebase as the backend  | [Amazon Firebase Backend 🛍️](https://rookas-amzon-app.web.app/) |
 | Simple but great new email service! Made and running by me!  | [Rokas email provider ↪️](https://rokas-email-app.web.app) |
+| This is Facebook! REACT, plain CSS, firebase and more cool tech is involed in here!  | [Rokas Facebook App 🔀](https://rokas-facebook-app.web.app/) |
+| Hulu, Hulu, Movie DB API, CSS3, React and some cool CSS tricks involved!  | [Rokas Hulu Hulu 🎞️](https://hulu-app-d2610.web.app/) |
+| Apple made good job, by creating iMessages! I love using them, but I love even more what I made! Gladly present awesome iMessage clone app written by me in React!  | [Rokas iMessage App ⚗️](https://rookas-imessage-app.web.app/) |
+| Simple Google Remake! | [Rokas Google App 🏳️](https://app-search-system.web.app) |
+| User friendly and scalable chat application, I created it with inspiration of whatsapp  | [Rokas Chats 🇦🇶](https://whatsapp-clone-c6b92.web.app) |
+| Twitter? Here it is! Awesome build, was a lot of good time working on it!  | [Twitter Remake! 🐦](https://twitter-clone-b6eb7.web.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
