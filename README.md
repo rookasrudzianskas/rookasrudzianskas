@@ -135,7 +135,8 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Simple TicTacToe written in React by me!  | [TicTacToe 🦶](https://tictactoeapp.surge.sh/) |
 | Alright, that is all with React builds, Let's start with projects I build with Vue JS  | Keep scrolling for more awww somness! |
   
-  | Github Readme is in the update process! 🔥	  | Let's start with my Greates Vue JS and Quasar Framework projects 🚀 |
+| Github Readme is in the update process! 🔥	  | Let's start with my Greates Vue JS and Quasar Framework projects 🚀 |
+| ------------- | ------------- |
 | Okay, this was very fun build, had loads of troubles here, but learned my mistakes, solved erros, added sound effects, CSS animations and enjoyed every minute of working on it!  | [Winner Picker Rokas App 🎁](https://winner-picker-d8b8f.web.app/#/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
