@@ -175,8 +175,24 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 |One day I woke up, my internet was not working at all, so I had to think what to build today! I realized, how important the Discord platform is nowdays, but it has some privacy leaks. Why do not to create something much more awesome and in the style as Discord! Presenting you Discord 2.2 written by me! No privacy leaks, no tracking, just cool stuff!  | [Discord Rokas MERN 🐵](https://rookas-discord-mern-app.web.app) |
 | Alright, I built the Slack clone, using the firebase as the backend, but now I wanted it to take to the next level, and write the backend by myself! Presenting you slack clone with MERN stack! | [Rokas Slack Clone with MERN Stack 🤙](https://rookas-slack-mern-app.web.app) |
 | Amazing, iMessages app, which was written previrously with Firebase using as it is backend, but now I took it to the next level, and made it with the MERN Stack! Was quite a big challenge! But I overcame all the obstacles!  | [Rokas MERN iMessages App 💹](https://rookas-imessage-mern-app.web.app) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| Oh shiiit! I made Tinder in MERN! Amazing job, Rokas! I am truly passionate about this haha!  | [Rokas MERN Tinder 📅](https://rookas-tinder-app-mern.web.app/) |
+| Of course and facebook comes in here! Also in MERN Stack  | [Rokas Mern Facebook App 🥶](https://rookas-facebook-app-mern.web.app/) |
+| Rokas TikTok app in MERN as well! Oh damn Holy shit it is working as perfectly as it was! | [Rokas TikTok App MERN 🎹](https://rookas-tiktok-app.web.app/) |
+| Alright, that is all with MERN Stack builds, Let's start with projects I build with Django Stack  | Keep scrolling for more awww somness! |
+
   
+  
+| Github Readme is in the update process! 🔥  | Let's start with my Greatest Django Framework projects 🚀 |
+| ------------- | ------------- |
+| This was amazing time, I completely redesgined the craiglist. Craiglist was terrible before, but now it has much sexier UI and UX, the user experiance is awesome again, easier search, API, beautuful soup used and more!  | [This is Craiglist in Django by Rokas](https://app-craiglist.herokuapp.com/) |
+| Just a simple django application, like a portfolio made by me!  | [Rokas Django Portfolio 🚙](https://app-aboutrookas.herokuapp.com/) |
+| Rokas Django flashcards app, without any problems!  | [Django Flashcards 🗃️](https://rookasflashcards.herokuapp.com/) |
+| Lastly Django affiliate website, which is Treadmill deals, go and buy something from here, to support me! Thanks!  | [Rokas Treadmill deals 👟](https://treadmill-deals.herokuapp.com/) |
+| Alright, that is all with Django Stack builds, Let's start with projects I build with Flask Stack  | Keep scrolling for more awww somness! |
+
+| Github Readme is in the update process! 🔥  | Let's start with my Greatest Flask Framework projects 🚀 |
+| ------------- | ------------- |
+| Just a simple Flask application, like a portfolio made by me!  | [Rokas Flask Portfolio 🚙](https://app-aboutrookas.herokuapp.com/) |
 
 
 
