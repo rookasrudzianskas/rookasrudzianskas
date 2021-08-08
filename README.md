@@ -332,7 +332,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 </summary>
   
   <br>
-  | Github Readme is in the update process! 🔥  | Let's start with my Greatest MERN projects 🚀 |
+| Github Readme is in the update process! 🔥  | Let's start with my Greatest MERN projects 🚀 |
 | ------------- | ------------- |
 |One day I woke up, my internet was not working at all, so I had to think what to build today! I realized, how important the Discord platform is nowdays, but it has some privacy leaks. Why do not to create something much more awesome and in the style as Discord! Presenting you Discord 2.2 written by me! No privacy leaks, no tracking, just cool stuff!  | [Discord Rokas MERN 🐵](https://rookas-discord-mern-app.web.app) |
 | Alright, I built the Slack clone, using the firebase as the backend, but now I wanted it to take to the next level, and write the backend by myself! Presenting you slack clone with MERN stack! | [Rokas Slack Clone with MERN Stack 🤙](https://rookas-slack-mern-app.web.app) |
@@ -342,7 +342,6 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Rokas TikTok app in MERN as well! Oh damn Holy shit it is working as perfectly as it was! | [Rokas TikTok App MERN 🎹](https://rookas-tiktok-app.web.app/) |
 | Alright, that is all with MERN Stack builds, Let's start with projects I build with Django Stack  | Keep scrolling for more awww somness! |
 
-  
   </details>
 </div>
 
