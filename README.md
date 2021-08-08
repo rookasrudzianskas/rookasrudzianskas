@@ -153,6 +153,13 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest Bare HTML, JS, CSS3 projects 🚀 |
 | ------------- | ------------- |
 | The pure JavaScript written project, called JS photo editing app, it is an web app, which can edit photos in basic styles!  | [Simple Rokas Photoshop 📱](https://rookasrudzianskas.github.io/photoeditingapp/) |
+| I made my portfolio then I was learning HTML, CSS3, and JS, it is kind of old one, but still great to remember for me! It was a lot of great memories working on this my portfolio website!  | [Rokas Rudzianskas Portfolio 🖥️](https://rookasrudzianskas.github.io/Portfolio_Website/) |
+| The Google hackanthon! I made AI tool, which helps writers to write beutiful, correct, sustainable articles! Also, it made it much easier and user friendly, than all currently exsisting in the market! Besides all these features, it is totally FREE! | [Rokas Pater 🔧](https://rookasrudzianskas.github.io/Paster/) |
+| I completely redesigned the apple website, including the Apple Iphone Model box, which is controllable! Everything written in vanilla CSS, JS and HTML!  | [Apple Redesign 🍎](https://rookasrudzianskas.github.io/Scaling-Apple-Website/) |
+| Simple Front End technologies using website, made for the wine company, which is based in Tuscan, Italy!  | [Wine Italy 🍷](https://rookasrudzianskas.github.io/Animated-wine-house-website/) |
+| I was learning CSS animations, so discovered, want to make something more with animations. Woke up one morning, started working on this website, and after couple weeks of work, I managed to sell it to the real travel business company called Oliver Trips! Take a look at private website! | [Rokas Travel Website 🇦🇺](https://rookasrudzianskas.github.io/Travellers-website/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 
 
