@@ -200,6 +200,8 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 <div>
 <details>
   <summary>Let's start with my Greatest React projects 🚀</summary>
+  
+  <br>
 
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
 | ------------- | ------------- |
@@ -258,6 +260,132 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
   
 
 </details>
+</div>
+
+
+
+<br>
+
+<div>
+<details>
+  <summary>Let's start with my Greates Vue JS and Quasar Framework projects 🚀</summary>
+  
+  <br>
+  
+| Github Readme is in the update process! 🔥	  | Let's start with my Greates Vue JS and Quasar Framework projects 🚀 |
+| ------------- | ------------- |
+| Okay, this was very fun build, had loads of troubles here, but learned my mistakes, solved erros, added sound effects, CSS animations and enjoyed every minute of working on it!  | [Winner Picker Rokas App 🎁](https://winner-picker-d8b8f.web.app/#/) |
+| Simple Todo app with localbase, firebase integrations and more! It is written used VUE JS and Quasar Framework, working on Mac, Windows, iOs, android!  | [Epic Todo app 📑](https://epic-qtodo-app.netlify.app/#/) |
+| Legit Todo app  | [Rokas Todo 🌼](https://app-legittodo.netlify.app) |
+| I present you the weather app, built on Quasar framework, the whole new framwork, which lets to build on all platforms. This is the weather app, try it on your phones too  | [Rokas Weather App ⛈️](https://app-qweather.netlify.app/#/) |
+| This is todo app, made using Quasar framwork, pretty dam good, build on iOS and experiance it   | [Rokas Legit Todo 5 🔠](https://app-awesometodo.netlify.app/#/)|
+| Restaurant management system, written in plain VUE JS with firebase integration | [Octo Pizza planet ⚖️](https://octo-pizza-planet.netlify.app/) |
+| Gift cards editing software written by me in Vue JS, take a look, and edit one by yourself!  | [Rokas Cards Editing Soft 🗃️](https://app-creative-cards.netlify.app) |
+| What? God Damn it, I made the twitter in Quasar framework with firebase integrated! | [Rokas Twitter App New 🐦](https://rookastwitter-app.netlify.app/#/) |
+| Simple QGram, basically instagram in Quasar, I love it, was a lot of memories making this one!  | [QGram Rokas App 📴](https://qgram-2b8fd.web.app/#/) |
+| Learning Vuetify, so simple weather app with API integrated  | [Vuetify Testing App 🙂](https://roookas-weather-app.netlify.app/#/) |
+| Alright, that is all with Vue JS and Quasar Framework builds, Let's start with projects I build with Bare HTML, JS, CSS3  | Keep scrolling for more awww somness!|
+  
+  </details>
+</div>
+
+
+
+
+<br>
+
+<div>
+<details>
+  <summary>Let's start with my Greatest Bare HTML, JS, CSS3 projects 🚀
+</summary>
+  
+  <br>
+  
+| Github Readme is in the update process! 🔥  | Let's start with my Greatest Bare HTML, JS, CSS3 projects 🚀 |
+| ------------- | ------------- |
+| The pure JavaScript written project, called JS photo editing app, it is an web app, which can edit photos in basic styles!  | [Simple Rokas Photoshop 📱](https://rookasrudzianskas.github.io/photoeditingapp/) |
+| I made my portfolio then I was learning HTML, CSS3, and JS, it is kind of old one, but still great to remember for me! It was a lot of great memories working on this my portfolio website!  | [Rokas Rudzianskas Portfolio 🖥️](https://rookasrudzianskas.github.io/Portfolio_Website/) |
+| The Google hackanthon! I made AI tool, which helps writers to write beutiful, correct, sustainable articles! Also, it made it much easier and user friendly, than all currently exsisting in the market! Besides all these features, it is totally FREE! | [Rokas Pater 🔧](https://rookasrudzianskas.github.io/Paster/) |
+| I completely redesigned the apple website, including the Apple Iphone Model box, which is controllable! Everything written in vanilla CSS, JS and HTML!  | [Apple Redesign 🍎](https://rookasrudzianskas.github.io/Scaling-Apple-Website/) |
+| Simple Front End technologies using website, made for the wine company, which is based in Tuscan, Italy!  | [Wine Italy 🍷](https://rookasrudzianskas.github.io/Animated-wine-house-website/) |
+| I was learning CSS animations, so discovered, want to make something more with animations. Woke up one morning, started working on this website, and after couple weeks of work, I managed to sell it to the real travel business company called Oliver Trips! Take a look at private website! | [Rokas Travel Website 🇦🇺](https://rookasrudzianskas.github.io/Travellers-website/) |
+| Take a break from boring corona virus, and go deeply to the awesome online museum of the cars! It is unique way to get to know the old cars! No need to go anywhere, just click the link on the right! 💙  | [Unique Cars Museum 🚗](https://rookasrudzianskas.github.io/Cars_Experiance/) |
+| Architect company have asked me for the website, so as usually I made one! Go and check this out, it got really nice!  | [Rokas Architects Business Website 🏗️](https://rookasrudzianskas.github.io/Architect_website/) |
+| Was learning some cool CSS3 hacks and tricks, so made this website to practice all of them!  | [Variety Of Foods 🥫](https://rookasrudzianskas.github.io/varietyfoods/) |
+| Rokas Creative Design Skills are perfectly shown in this project!  | [Rokas Creative Design! 🗨️](https://rookasrudzianskas.github.io/Rokas_Creative_Design/) |
+| One crazy business website, I made to them! Go and check it out!   | [Rokas Business Agency 👟](https://rookasrudzianskas.github.io/Business-Agency-Website-Template/) |
+| JS sports tracker, it tracks your progress, and at the end shows the cake diagram!  | [Sports Tracker 🏅](https://rookasrudzianskas.github.io/JS-sports-tracker) |
+| Alright, that is all with HTML, CSS, JS builds, Let's start with projects I build with MERN Stack  | Keep scrolling for more awww somness! |
+
+  
+  
+  </details>
+</div>
+
+
+<br>
+
+<div>
+<details>
+  <summary>Let's start with my Greatest MERN projects 🚀
+
+</summary>
+  
+  <br>
+  | Github Readme is in the update process! 🔥  | Let's start with my Greatest MERN projects 🚀 |
+| ------------- | ------------- |
+|One day I woke up, my internet was not working at all, so I had to think what to build today! I realized, how important the Discord platform is nowdays, but it has some privacy leaks. Why do not to create something much more awesome and in the style as Discord! Presenting you Discord 2.2 written by me! No privacy leaks, no tracking, just cool stuff!  | [Discord Rokas MERN 🐵](https://rookas-discord-mern-app.web.app) |
+| Alright, I built the Slack clone, using the firebase as the backend, but now I wanted it to take to the next level, and write the backend by myself! Presenting you slack clone with MERN stack! | [Rokas Slack Clone with MERN Stack 🤙](https://rookas-slack-mern-app.web.app) |
+| Amazing, iMessages app, which was written previrously with Firebase using as it is backend, but now I took it to the next level, and made it with the MERN Stack! Was quite a big challenge! But I overcame all the obstacles!  | [Rokas MERN iMessages App 💹](https://rookas-imessage-mern-app.web.app) |
+| Oh shiiit! I made Tinder in MERN! Amazing job, Rokas! I am truly passionate about this haha!  | [Rokas MERN Tinder 📅](https://rookas-tinder-app-mern.web.app/) |
+| Of course and facebook comes in here! Also in MERN Stack  | [Rokas Mern Facebook App 🥶](https://rookas-facebook-app-mern.web.app/) |
+| Rokas TikTok app in MERN as well! Oh damn Holy shit it is working as perfectly as it was! | [Rokas TikTok App MERN 🎹](https://rookas-tiktok-app.web.app/) |
+| Alright, that is all with MERN Stack builds, Let's start with projects I build with Django Stack  | Keep scrolling for more awww somness! |
+
+  
+  </details>
+</div>
+
+
+<br>
+
+<div>
+<details>
+  <summary>Let's start with my Greatest Django Framework projects 🚀
+
+
+</summary>
+  
+  <br>
+| Github Readme is in the update process! 🔥  | Let's start with my Greatest Django Framework projects 🚀 |
+| ------------- | ------------- |
+| This was amazing time, I completely redesgined the craiglist. Craiglist was terrible before, but now it has much sexier UI and UX, the user experiance is awesome again, easier search, API, beautuful soup used and more!  | [This is Craiglist in Django by Rokas](https://app-craiglist.herokuapp.com/) |
+| Just a simple django application, like a portfolio made by me!  | [Rokas Django Portfolio 🚙](https://app-aboutrookas.herokuapp.com/) |
+| Rokas Django flashcards app, without any problems!  | [Django Flashcards 🗃️](https://rookasflashcards.herokuapp.com/) |
+| Lastly Django affiliate website, which is Treadmill deals, go and buy something from here, to support me! Thanks!  | [Rokas Treadmill deals 👟](https://treadmill-deals.herokuapp.com/) |
+| Alright, that is all with Django Stack builds, Let's start with projects I build with Flask Stack  | Keep scrolling for more awww somness! |
+  
+  </details>
+</div>
+
+
+
+<br>
+
+<div>
+<details>
+  <summary>Let's start with my Greatest Django Framework projects 🚀
+
+
+</summary>
+  
+  <br>
+| Github Readme is in the update process! 🔥  | Let's start with my Greatest Flask Framework projects 🚀 |
+| ------------- | ------------- |
+| Just a simple Flask application, like a portfolio made by me! I woke up one day, and discovered want to make the porfolio in Flask, so I just made it, it is live and online! | [Rokas Flask Portfolio 🚙](https://app-aboutrookas.herokuapp.com/) |
+  
+  
+  </details>
 </div>
 
 Github Readme is in the update process! 🔥
