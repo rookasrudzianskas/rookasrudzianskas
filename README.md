@@ -162,16 +162,19 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Architect company have asked me for the website, so as usually I made one! Go and check this out, it got really nice!  | [Rokas Architects Business Website 🏗️](https://rookasrudzianskas.github.io/Architect_website/) |
 | Was learning some cool CSS3 hacks and tricks, so made this website to practice all of them!  | [Variety Of Foods 🥫](https://rookasrudzianskas.github.io/varietyfoods/) |
 | Rokas Creative Design Skills are perfectly shown in this project!  | [Rokas Creative Design! 🗨️](https://rookasrudzianskas.github.io/Rokas_Creative_Design/) |
+| One crazy business website, I made to them! Go and check it out!   | [Rokas Business Agency 👟](https://rookasrudzianskas.github.io/Business-Agency-Website-Template/) |
 | JS sports tracker, it tracks your progress, and at the end shows the cake diagram!  | [Sports Tracker 🏅](https://rookasrudzianskas.github.io/JS-sports-tracker) |
+| Alright, that is all with HTML, CSS, JS builds, Let's start with projects I build with MERN Stack  | Keep scrolling for more awww somness! |
+
   
   
   
   
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest MERN projects 🚀 |
 | ------------- | ------------- |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
-| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+|One day I woke up, my internet was not working at all, so I had to think what to build today! I realized, how important the Discord platform is nowdays, but it has some privacy leaks. Why do not to create something much more awesome and in the style as Discord! Presenting you Discord 2.2 written by me! No privacy leaks, no tracking, just cool stuff!  | [Discord Rokas MERN 🐵](https://rookas-discord-mern-app.web.app) |
+| Alright, I built the Slack clone, using the firebase as the backend, but now I wanted it to take to the next level, and write the backend by myself! Presenting you slack clone with MERN stack! | [Rokas Slack Clone with MERN Stack 🤙](https://rookas-slack-mern-app.web.app) |
+| Amazing, iMessages app, which was written previrously with Firebase using as it is backend, but now I took it to the next level, and made it with the MERN Stack! Was quite a big challenge! But I overcame all the obstacles!  | [Rokas MERN iMessages App 💹](https://rookas-imessage-mern-app.web.app) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
   
 
