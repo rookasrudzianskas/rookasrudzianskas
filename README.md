@@ -195,7 +195,70 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Just a simple Flask application, like a portfolio made by me! I woke up one day, and discovered want to make the porfolio in Flask, so I just made it, it is live and online! | [Rokas Flask Portfolio 🚙](https://app-aboutrookas.herokuapp.com/) |
 
 
+<br>
 
+<div>
+<details>
+  <summary>Let's start with my Greatest React projects 🚀</summary>
+
+| Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
+| ------------- | ------------- |
+| Well known Starbucks website remake  | [Starbucks ☕](https://rookas-starbucks-app.web.app/)  |
+| What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| We all use Telegram, here is one I made in React!  | [Telegram Redesigned 🤙](https://rookas-telegram-app.web.app) |
+| Now job search is pain in the a**, I made the platform, which simplifies it!  | [Jobs Kingdom 👷](https://rookas-job-search-app.web.app) |
+| Kind of Google Drive, but made by me!  | [Rokas Drive 💻](https://rookas-drive-app.web.app/) |
+| Belowed Diney Plus, finally I made it!  | [Disney Plus 🎥](https://rookas-disney-plus.web.app) |
+| Simple paypal integration, was learning how to integrate it, so made this project to the reality | [Paypal Integration 💸](https://rookas-pay-pal-checkout.web.app) |
+| Of course, I love livestreams, planning to do in the future! I made my own Twitch (Simplified version, but updating!)  | [Rokas Twitch ⏱️](https://rookas-twitch-app.web.app) |
+| Facebook! At this project, started learning Tailwindcss, and it is so DAMN powerful! 🔥  | [Rokas Facebook App ⚽](https://roookas-facebook-app.vercel.app/) |
+| Nowdays we all use Discord, I managed to build one, by myself! Give some love 🖤 | [Rokas Discord App 🧔](https://rookas-discord-app.web.app) |
+| This was my second try to build the amazon in React. I have used next js framework, tailwindcss and included stripe payment system! Also using Fake Store API! Go and buy something! Just kidding haha 😄  | [Rokas Amazon App 3 🛍️](https://rookas-amazon-app.vercel.app/) |
+| I felt in love with Tailwind css and API stuff, so made fully working Hulu clone @2 🎥  | [Hulu App @2 🚀](https://hulu-app-sandy.vercel.app/) |
+| I drive Tesla, always wanted to recreate Tesla homepage, today I did! 😙 And It turned out very easy!  | [Rokas Tesla App 🚙](https://rookas-tesla-app.web.app) |
+| This is Google APP, written in NEXTJS Framework, use Google search API, server side rendering and more  | [Rokas Google! 📥](https://google-app.vercel.app/) |
+| I woke up today, and thought I want to create whatsapp! That is what I did! Server Side rendering, complicated Database stuff, Next JS, 1 to 1 chats!  | [Whatsapp Clone 2 ⛓️](https://rookas-whatsapp.vercel.app/) |
+| Alright Alright, many people were asking for Netflix in Next JS, I made it! Films, Netflix UI, logins, Payments, Subscriptions Management integrated!  | [Netflix app by me! 📷](https://rookas-netflix-app.web.app) |
+| Oh shit, noone have invited me to the ClubHouse, so I made one by myself! All features working! In React, using Bootstrap v5.0  | [Rokas Clubhouse Remake 🤘](https://rookas-clubhouse-app.web.app/) |
+| I always wanted to make Slack clone, finally it is here and live!  | [Slack App 📯](https://rookas-slack-app.web.app/) |
+| Snapchat but in React, all features are working! Was quite of a challenge to make one!  | [Rokas Snapchat 📸](https://rookas-snapchat-app.web.app/) |
+| Of course, this is the second version, of making LinkedIn! Tailwind, Next JS and a lot of hours of debugging!  | [Rokas LinkedIn 2 📑](https://rookas-linkedin-app-version-2.web.app) |
+| LinkedIn I made at first, was quite of a challenge, but the second version got much easier!  | [LinkedIn @1 🧏](https://rookas-linkedin-app.web.app/home) |
+| Why not Google Gmail? Full sending functionality, Advanced UI and a lot of hours I put to make this working realtime!  | [Rokas Gmail App 📧](https://rookas-gemail-app.web.app/) |
+| Second Time I built Disney Plus, but using React Styled Components!  | [Disney Clone 🏛️](https://rookas-disney-plus-app.web.app/) |
+| Okay, Okay, I love building Amazon, this was the first time learning stripe, I have managed to Integrate it to whole beautiful Amazon App | [Amazon App Redesigned! 🛍️](https://rookas-amzon-app.web.app/) |
+| Simple chat app in React app using firebas as the backend sollution  | [React Chat App 📧]( https://chat-app-5bfa5.web.app) |
+| In simple words, one more build of amazon, firebase as the backend  | [Amazon Firebase Backend 🛍️](https://rookas-amzon-app.web.app/) |
+| Simple but great new email service! Made and running by me!  | [Rokas email provider ↪️](https://rokas-email-app.web.app) |
+| This is Facebook! REACT, plain CSS, firebase and more cool tech is involed in here!  | [Rokas Facebook App 🔀](https://rokas-facebook-app.web.app/) |
+| Hulu, Hulu, Movie DB API, CSS3, React and some cool CSS tricks involved!  | [Rokas Hulu Hulu 🎞️](https://hulu-app-d2610.web.app/) |
+| Apple made good job, by creating iMessages! I love using them, but I love even more what I made! Gladly present awesome iMessage clone app written by me in React!  | [Rokas iMessage App ⚗️](https://rookas-imessage-app.web.app/) |
+| Simple Google Remake! | [Rokas Google App 🏳️](https://app-search-system.web.app) |
+| User friendly and scalable chat application, I created it with inspiration of whatsapp  | [Rokas Chats 🇦🇶](https://whatsapp-clone-c6b92.web.app) |
+| Twitter? Here it is! Awesome build, was a lot of good time working on it!  | [Twitter Remake! 🐦](https://twitter-clone-b6eb7.web.app/) |
+| Wait whaaat? Yeah, Instagram Reels are here! Was a lot of fun of making this one!  | [Rokas Instagram Reels! 📹](https://instagram-reels-5205f.web.app) |
+| Slack, another amazing build my me! No privacy leaks, incredible design and loads of power!  | [Slack App 🉑](https://slack-clone-cbc0b.web.app/) |
+| The app - you love, I love, all world loves! Finally I made big step and made it live! Present you Spotify  | [Rokas Spotify 🎵](https://app-spotify.netlify.app)|
+| Tik Tok, I have never liked tik tok, but then I build one by myself, I get used to love it!  | [Rokas Tik Tok App 🎹](https://tik-tok-clone-4194c.web.app) |
+| Haha, this is Tinder App by me!  | [Tinder Rokas 📅](https://tinder-clone-da3e2.web.app/) |
+| Next day, so Youtube by me is here!  | [Rokas Youtube 🎮](https://clone-33b47.web.app) |
+| Totally mind blowind Netflix app! API, firebase involved here | [Rokas Netflix App 🎥](https://netflix-clone-c5fd3.web.app) |
+| I created my own YouTube channel, with it I made the YouTube thumbnail Changer!  | [Rokas YouTube Channel ThumbNail changer 🚀](https://rokas-thumbnail-app.web.app/) |
+| First time building the amazon! 1 week of hard work and it is live!  | [Amazon I made for the first time! 🛍️](https://clone-17aee.web.app/) |
+| Damn, Covid-21 hit the world, i hit the world with Covid-21 tracker | [Rokas Covid-21 tracker 🇻🇮](https://covid-19-tracker-a847c.web.app/) |
+| Simple Messenger App in React! It was a lot of fun working on it!  | [Messenger App 📊](https://facebook-messenger-clo-7bc45.web.app/) |
+| I wrote a simple todo app, but with firebase as the backend!  | [Rokas Todo! 😲](https://app-legittodo.netlify.app) |
+| Instagram here! A lot of time spent in here, but was worth it! Presenting you!  | [Rokas Instagram 🚀](https://instagram-clone-react-f4410.web.app/) |
+| One day in my rented Airbnb, I thought why not airbnb, so now it is live. My Airbnb clone!  | [Rokas airbnb 🏙️](https://airbnb-clone-8f294.web.app) |
+| Most of beutiful of all, presenting Pinterest App made by me! With unsplash airbnb! | [Rokas Pinterest 📱](https://rookas-pinterest-app.web.app/) |
+| Simple films and actors DB fetch written by me! With amazing UI and UX | [Films and Actors DB 😧](https://rookasrudzianskas.github.io/Cuddly-Box-Office/) |
+| Amazing chat app, with chatrooms, live status, real time and more! Was two weeks of work!  | [Rokas Teams 🧑‍🤝‍🧑](https://glowing-computer-chat-app.web.app/signin) |
+| Simple TicTacToe written in React by me!  | [TicTacToe 🦶](https://tictactoeapp.surge.sh/) |
+| Alright, that is all with React builds, Let's start with projects I build with Vue JS  | Keep scrolling for more awww somness! |
+  
+
+</details>
+</div>
 
 Github Readme is in the update process! 🔥
 
