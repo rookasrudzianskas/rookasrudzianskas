@@ -398,10 +398,21 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 Github Readme is in the update process! 🔥
 
 Portfolio now and couting! Do not hesitate to check it out!
+
   
 My portfolio website with some creative stuff ->
 
 https://rookasrudzianskas.github.io/Portfolio_Website/
+
+
+<br>
+
+<div>
+<details>
+  <summary>Some old portfolio value in here! 🚀
+</summary>
+  
+  <br>
 
 This is starbucks in REACT -> 
 
@@ -746,6 +757,10 @@ https://rookasrudzianskas.github.io/JS-sports-tracker/
 The pure JavaScript written project, called JS photo editing app, it is an web app, which can edit photos in basic styles! ->
 
 https://rookasrudzianskas.github.io/photoeditingapp/
+  
+  
+   </details>
+</div>
 
 <br>
 
