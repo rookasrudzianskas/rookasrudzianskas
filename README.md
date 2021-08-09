@@ -360,6 +360,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 </summary>
   
   <br>
+  
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest Django Framework projects 🚀 |
 | ------------- | ------------- |
 | This was amazing time, I completely redesgined the craiglist. Craiglist was terrible before, but now it has much sexier UI and UX, the user experiance is awesome again, easier search, API, beautuful soup used and more!  | [This is Craiglist in Django by Rokas](https://app-craiglist.herokuapp.com/) |
@@ -383,6 +384,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 </summary>
   
   <br>
+  
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest Flask Framework projects 🚀 |
 | ------------- | ------------- |
 | Just a simple Flask application, like a portfolio made by me! I woke up one day, and discovered want to make the porfolio in Flask, so I just made it, it is live and online! | [Rokas Flask Portfolio 🚙](https://app-aboutrookas.herokuapp.com/) |
