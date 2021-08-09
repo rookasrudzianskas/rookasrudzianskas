@@ -388,6 +388,8 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest Flask Framework projects 🚀 |
 | ------------- | ------------- |
 | Just a simple Flask application, like a portfolio made by me! I woke up one day, and discovered want to make the porfolio in Flask, so I just made it, it is live and online! | [Rokas Flask Portfolio 🚙](https://app-aboutrookas.herokuapp.com/) |
+| Alright, that is all with Flask Stack builds, Let's start with projects I build with magical Stack  | Keep scrolling for more awww somness! Coming soon! |
+
   
   
   </details>
