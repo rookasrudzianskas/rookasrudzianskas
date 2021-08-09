@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on startup projects and future technologies
 - 📫 How to reach me rokas.rudzenskas@gmail.com
 
-
+
 
 In the update process!
 
@@ -409,7 +409,7 @@ https://rookasrudzianskas.github.io/Portfolio_Website/
 
 <div>
 <details>
-  <summary>Some old portfolio value in here! 🚀
+  <summary>### Some old portfolio value in here! 🚀
 </summary>
   
   <br>
