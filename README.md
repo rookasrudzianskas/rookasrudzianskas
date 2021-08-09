@@ -395,7 +395,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
   </details>
 </div>
 
-Github Readme is in the update process! 🔥
+##### Github Readme is in the update process! 🔥
 
 Portfolio now and couting! Do not hesitate to check it out!
 
@@ -409,7 +409,7 @@ https://rookasrudzianskas.github.io/Portfolio_Website/
 
 <div>
 <details>
-  <summary>### Some old portfolio value in here! 🚀
+  <summary>Some old portfolio value in here! 🚀
 </summary>
   
   <br>
