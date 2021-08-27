@@ -122,6 +122,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Simple paypal integration, was learning how to integrate it, so made this project to the reality | [Paypal Integration 💸](https://rookas-pay-pal-checkout.web.app) |
 | Of course, I love livestreams, planning to do in the future! I made my own Twitch (Simplified version, but updating!)  | [Rokas Twitch ⏱️](https://rookas-twitch-app.web.app) |
 | Facebook! At this project, started learning Tailwindcss, and it is so DAMN powerful! 🔥  | [Rokas Facebook App ⚽](https://roookas-facebook-app.vercel.app/) |
+| Just learning some cool stuff with CSS, Rental UI remake 🖤 | [Rokas Rental App 🧔](https://rental-ui-app.vercel.app/) |
 | Nowdays we all use Discord, I managed to build one, by myself! Give some love 🖤 | [Rokas Discord App 🧔](https://rookas-discord-app.web.app) |
 | This was my second try to build the amazon in React. I have used next js framework, tailwindcss and included stripe payment system! Also using Fake Store API! Go and buy something! Just kidding haha 😄  | [Rokas Amazon App 3 🛍️](https://rookas-amazon-app.vercel.app/) |
 | I felt in love with Tailwind css and API stuff, so made fully working Hulu clone @2 🎥  | [Hulu App @2 🚀](https://hulu-app-sandy.vercel.app/) |
