@@ -113,7 +113,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
 | ------------- | ------------- |
 | Well known Starbucks website remake  | [Starbucks ☕](https://rookas-starbucks-app.web.app/)  |
-| Oh my God, just finished awesome airbnb recreation, using Next JS and tailwind CSS! Awesome tech used, couple hours of work, awesome project on Portfolio! Do not hesitate to check it out and give some love ❤️ | [Rookas Airbnb App 🏠](https://rookas-airbnb-app.vercel.app/) |
+| Today I completely remade the Airbnb, it is fully working, with an api requests, UI elements, Tailwind css is used in here! After couple weeks, the whole my startup remake is coming up! ❤️ | [Rookas Complete Renture App 🏠](https://rookas-rent-app.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
 | We all use Telegram, here is one I made in React!  | [Telegram Redesigned 🤙](https://rookas-telegram-app.web.app) |
 | Now job search is pain in the a**, I made the platform, which simplifies it!  | [Jobs Kingdom 👷](https://rookas-job-search-app.web.app) |
@@ -142,6 +142,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Simple but great new email service! Made and running by me!  | [Rokas email provider ↪️](https://rokas-email-app.web.app) |
 | This is Facebook! REACT, plain CSS, firebase and more cool tech is involed in here!  | [Rokas Facebook App 🔀](https://rokas-facebook-app.web.app/) |
 | Hulu, Hulu, Movie DB API, CSS3, React and some cool CSS tricks involved!  | [Rokas Hulu Hulu 🎞️](https://hulu-app-d2610.web.app/) |
+| Oh my God, just finished awesome airbnb recreation, using Next JS and tailwind CSS! Awesome tech used, couple hours of work, awesome project on Portfolio! Do not hesitate to check it out and give some love ❤️ | [Rookas Airbnb App 🏠](https://rookas-airbnb-app.vercel.app/) |
 | Apple made good job, by creating iMessages! I love using them, but I love even more what I made! Gladly present awesome iMessage clone app written by me in React!  | [Rokas iMessage App ⚗️](https://rookas-imessage-app.web.app/) |
 | Simple Google Remake! | [Rokas Google App 🏳️](https://app-search-system.web.app) |
 | User friendly and scalable chat application, I created it with inspiration of whatsapp  | [Rokas Chats 🇦🇶](https://whatsapp-clone-c6b92.web.app) |
