@@ -29,7 +29,7 @@ Two startups founder and the CEO - [Brainlyemails](https://brainlyemails.com/) a
 
 👋 Renture.rent startup which born couple weeks ago, with the help of Gabriel. More? [Renture.rent](https://renture.rent/) 🔥
 
-👉 My today's project! Currently working on it! More? [Rokas Airbnb](https://rookas-airbnb-app.vercel.app/) 🚀
+👉 My today's project! Currently working on it! More? [Quick Feedback](https://quickfeedback.digital/) 🚀
 
 🔥 Currently working on the Uber app! (affiliate Uber app) - [Uber Repository](https://github.com/rookasrudzianskas/Uber-React-Native)
 
