@@ -119,6 +119,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Now job search is pain in the a**, I made the platform, which simplifies it!  | [Jobs Kingdom 👷](https://rookas-job-search-app.web.app) |
 | Kind of Google Drive, but made by me!  | [Rokas Drive 💻](https://rookas-drive-app.web.app/) |
 | Belowed Diney Plus, finally I made it!  | [Disney Plus 🎥](https://rookas-disney-plus.web.app) |
+| Huge Emoji project, built usign the help of Github Co-pilot and my own brains! | [Rokas Huge Emoji](https://github.com/rookasrudzianskas/Huge_EMOJI) |
 | Simple paypal integration, was learning how to integrate it, so made this project to the reality | [Paypal Integration 💸](https://rookas-pay-pal-checkout.web.app) |
 | Of course, I love livestreams, planning to do in the future! I made my own Twitch (Simplified version, but updating!)  | [Rokas Twitch ⏱️](https://rookas-twitch-app.web.app) |
 | Facebook! At this project, started learning Tailwindcss, and it is so DAMN powerful! 🔥  | [Rokas Facebook App ⚽](https://roookas-facebook-app.vercel.app/) |
