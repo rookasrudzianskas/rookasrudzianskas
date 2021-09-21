@@ -110,6 +110,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | Well known Starbucks website remake  | [Starbucks ☕](https://rookas-starbucks-app.web.app/)  |
 | Today I completely remade the Airbnb, it is fully working, with an api requests, UI elements, Tailwind css is used in here! After couple weeks, the whole my startup remake is coming up! ❤️ | [Rookas Complete Renture App 🏠](https://rookas-rent-app.vercel.app/) |
 | What if Amazon could look amazing?  | [Amazon 5 🛍️](https://rookas-amazon-app-2.vercel.app/) |
+| My Personal Blog, byrookas presenting to the public | [ByRookas Blog](https://byroookas.vercel.app/) |
 | We all use Telegram, here is one I made in React!  | [Telegram Redesigned 🤙](https://rookas-telegram-app.web.app) |
 | Now job search is pain in the a**, I made the platform, which simplifies it!  | [Jobs Kingdom 👷](https://rookas-job-search-app.web.app) |
 | Kind of Google Drive, but made by me!  | [Rokas Drive 💻](https://rookas-drive-app.web.app/) |
