@@ -107,6 +107,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
   
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
 | ------------- | ------------- |
+|Uber app in Next JS, awesome build | [Uber](https://rookas-uber-next.vercel.app/) |
 | Well known Starbucks website remake  | [Starbucks ☕](https://rookas-starbucks-app.web.app/)  |
 | It is untracked, but tracked social network! Go and give some love! | [Untracked Social Net](https://rookas-social-network.vercel.app/) |
 | Today I completely remade the Airbnb, it is fully working, with an api requests, UI elements, Tailwind css is used in here! After couple weeks, the whole my startup remake is coming up! ❤️ | [Rookas Complete Renture App 🏠](https://rookas-rent-app.vercel.app/) |
