@@ -6,7 +6,7 @@
 
 
 
-In the update proces
+In the update proce
 
 ### Glad to see you there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/byrookas">
