@@ -108,6 +108,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
   
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
 | ------------- | ------------- |
+|Finally back to Web 3.0, done going as a wild | [Live Web 3.0](https://rookas-cloud.vercel.app/) |
 |Music player in Next JS, a lot of fun was for me | [Music](https://yfitops.vercel.app/) |
 |Uber app in Next JS, awesome build | [Uber](https://rookas-uber-next.vercel.app/) |
 | Well known Starbucks website remake  | [Starbucks ☕](https://rookas-starbucks-app.web.app/)  |
