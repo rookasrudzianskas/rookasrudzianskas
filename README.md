@@ -16,9 +16,6 @@ In the update process!👏🥰👏🍫😎
 <a href="https://www.linkedin.com/in/rokasrudzianskas/">
   <img align="left" alt="Rokas's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/et7t8kogf?si=kjljlk">
-  <img align="left" alt="Rokas's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
