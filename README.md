@@ -21,11 +21,8 @@ In the update process!😅✅🔥
 
 <br />
 
-Hi, I'm [Rokas Rudzianskas](https://byrookas.com/), a passionate self-taught web and apps developer and a freelance software developer from Lithuania || USA. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐
+Hi, I'm [Rokas Rudzianskas](https://byrookas.com/), a passionate self-taught web and apps developer and a freelance software developer from Lithuania. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐
 
-Two startups founder and the CEO - [Brainlyemails](https://brainlyemails.com/) and [CONNEXIOUS](https://connexious.com/). Feel free to check them out! 
-
-👋 Renture.rent startup which born couple weeks ago, More? [Renture.rent](https://renture.rent/) 🔥
 
 👉 My today's project! Currently working on it! More? [Quick Feedback](https://quickfeedback.digital/) 🚀
 
