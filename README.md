@@ -31,7 +31,7 @@ Hi, I'm [Rokas Rudzianskas](https://byrookas.com/), a passionate self-taught web
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼 Any freelance work? Do reach, [email](mailto:rokas.rudzenskas@gmail.com) :)
+- 💼 Any freelance work? Do reach, [email](mailto:rudzianskas.rokas@yahoo.com) :)
 - 💬 Ask me about anything, I am happy to help;
 ~ Rookas
 
