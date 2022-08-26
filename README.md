@@ -7,8 +7,6 @@
 
 
 In the update process! 🚀
-https://media-exp1.licdn.com/dms/image/C4E03AQFidMYYI2HM4A/profile-displayphoto-shrink_400_400/0/1637877059932?e=1666828800&v=beta&t=1GzZx3wyQ8ruVl-MRcInKJvvYFqkDl-spZ9Oh9mY4dc
-
 
 ### Glad to see you there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/byrookas">
