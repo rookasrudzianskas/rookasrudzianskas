@@ -101,6 +101,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
   
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
 | ------------- | ------------- |
+|First NFT Collection of mine, mint available|[Boring NFT Drop](https://boring-nft-mint.vercel.app/nft/boringapies)
 |Reddit in NextJs, newest project of mine|[Rokas Reddit Social Net](https://rookas-reddit.vercel.app/)
 |Crypto Swap tool|[Crypto UniSwap Tool](https://rookas-crypto-swap.vercel.app/)
 |My NFT collection, Boring Yacht Ape's|[Boring Ape's](https://rookas-open-sea.vercel.app/)
