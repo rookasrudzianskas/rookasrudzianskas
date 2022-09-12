@@ -101,6 +101,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
   
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
 | ------------- | ------------- |
+|Web3 Lottery, using web3 SDK|[Lottery](https://web3-lottery-gules.vercel.app/)
 |First NFT Collection of mine, mint available|[Boring NFT Drop](https://boring-nft-mint.vercel.app/nft/boringapies)
 |Reddit in NextJs, newest project of mine|[Rokas Reddit Social Net](https://rookas-reddit.vercel.app/)
 |Crypto Swap tool|[Crypto UniSwap Tool](https://rookas-crypto-swap.vercel.app/)
