@@ -101,6 +101,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
   
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
 | ------------- | ------------- |
+|Uber Web3 remake by me|[Uber Web3](https://rokas-uber.vercel.app/)
 |Twitter remake using sanity SPONSORED|[Twitter](https://roookas-twitter.vercel.app/)
 |Web3 Lottery, using web3 SDK|[Lottery](https://web3-lottery-gules.vercel.app/)
 |First NFT Collection of mine, mint available|[Boring NFT Drop](https://boring-nft-mint.vercel.app/nft/boringapies)
