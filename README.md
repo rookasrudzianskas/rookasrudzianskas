@@ -101,6 +101,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
   
 | Github Readme is in the update process! 🔥  | Let's start with my Greatest React projects 🚀 |
 | ------------- | ------------- |
+|My personal CoinMarketCap store with smart-contract|[Rokas SmartContract MarketCap](https://rookas-coinmarketcap.vercel.app/)
 |My NFT's store|[Rokas NFTs Store](https://rookas-amazon-nft.vercel.app/)
 |Facebook Web3 remake, using the Web3 as the backend|[Rokas Facebook Web3](https://rookas-facebook-web3.vercel.app/)
 |Uber Web3 remake by me|[Uber Web3](https://rokas-uber.vercel.app/)
