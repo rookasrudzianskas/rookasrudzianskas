@@ -103,6 +103,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 | ------------- | ------------- |
 |Spotify Web3 Remake|[Rokas Spotify Web3](https://rookas-spotify.vercel.app/)
 |My NFT marketplace |[Rokas NFT MarketPlace](https://rokas-opensea-web3.vercel.app/)
+|Medium build, learning firebase|[Rokas MEDIUM](https://rookas-medium.vercel.app/)
 |ROKAS Framer Motion Personal Website Prototype|[Rokas Framer Motion Website](https://rokas-dev-portfolio.vercel.app/)
 |My personal CoinMarketCap store with smart-contract|[Rokas SmartContract MarketCap](https://rookas-coinmarketcap.vercel.app/)
 |My NFT's store|[Rokas NFTs Store](https://rookas-amazon-nft.vercel.app/)
