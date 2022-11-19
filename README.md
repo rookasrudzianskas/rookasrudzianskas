@@ -23,7 +23,7 @@ In the update process!😅🤘😍😂👌
 Hi, I'm [Rokas Rudzianskas](https://byrookas.com/), a passionate self-taught web and apps developer and a freelance software developer from Lithuania. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐
 
 
-👉 My today's project! Currently working on it! More? [Quick Feedback](https://quickfeedback.digital/) 🚀
+👉 My today's project! Currently working on it! More? [Quick Feedback](https://quickfeedback.monster/) 🚀
 
 🔥 Currently working on the Uber app! (affiliate Uber app) - [Uber Repository](https://github.com/rookasrudzianskas/Uber-React-Native)
 
