@@ -64,7 +64,7 @@ All cool programmers use [React](https://reactjs.org/) and the powerful [Tailwin
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  8.901 Karma Points           
-🌸  Completed 3 tasks today           
+🌸  Completed 11 tasks today           
 ✅  Completed 904 tasks so far           
 ⏳  Longest streak is 123 days
 <!-- TODO-IST:END -->
