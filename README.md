@@ -20,6 +20,7 @@ In the continuous update process!😙🙂😃😄😁😆🥹
 
 Hi, I'm [Rokas Rudzianskas](https://byrookas.com/), a passionate self-taught web and apps developer and a freelance software developer from Lithuania. Interested in working on the backend, APIs, and Databases and currently learning about Distributed Ledger Technology. Occasionally I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐
 
+<a href="https://app.daily.dev/rokas"><img src="https://api.daily.dev/devcards/9fcfa9148fd54e2ab4d5e2fe4833839f.png?r=o58" width="400" alt="Rokas Tech's Dev Card"/></a>
 
 👉 My today's project! Currently working on it! More? [Quick Feedback](https://quickfeedback.monster/) 🚀
 
