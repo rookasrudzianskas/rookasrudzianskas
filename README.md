@@ -1,10 +1,10 @@
-::- 👋 Hi, I’m @rookasrudzianskas
+:::- 👋 Hi, I’m @rookasrudzianskas
 - 👀 I’m interested in creating the magical stuff with code and mac 🖤
 - 🌱 I’m currently learning how to deal with data 💻
 - 💞️ I’m looking to collaborate on startup projects and future technologies
 - 📫 How to reach me rudzianskas.rokas@yahoo.com
 
-In the continuous update process!😙🔥
+In the continuous update process!😙🔥🔥
 
 ### Glad to see you there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
