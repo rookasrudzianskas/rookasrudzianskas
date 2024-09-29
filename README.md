@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on startup projects and future technologies
 - 📫 How to reach me rudzianskas.rokas@yahoo.com
 
-In the continuous update process!😀🫡😀😅<img width="160" alt="image" src="https://github.com/user-attachments/assets/c453eac7-5770-47e7-b78e-43d145e781fa">
+In the continuous update process!😀🫡😀😅
+
+<img width="160" alt="image" src="https://github.com/user-attachments/assets/c453eac7-5770-47e7-b78e-43d145e781fa">
 
 
 ### Glad to see you there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
