@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on startup projects and future technologies
 - 📫 How to reach me rudzianskas.rokas@yahoo.com
 
-In the continuous update process!😂😇😍😍
+In the continuous update process!😂😇😍
 
 
 
