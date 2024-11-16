@@ -2,21 +2,14 @@
 
 
 <p>Welcome to my page! </br> I'm Rokas, AI Student @Milano and developer from <img src="![image](https://github.com/user-attachments/assets/addc23e6-749c-4e39-8a8f-254079dbed65)
-" width="13"/> <b>Vilnius, Lithuania</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+" width="13"/> <b>Vilnius, Lithuania</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Milan, Italy</b>. </p>
 <h3>Things I code with</h3>
-
-
 
 ### Glad to see you there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm [Rokas Rudzianskas](https://byrookas.com/), a passionate self-taught web and apps developer and a freelance software developer from Lithuania. Interested in working on the backend, APIs, and Databases and am currently learning about Distributed Ledger Technology. Occasionally I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐
 
 <a href="https://app.daily.dev/rokas"><img src="https://api.daily.dev/devcards/9fcfa9148fd54e2ab4d5e2fe4833839f.png?r=o58" width="400" alt="Rokas Tech's Dev Card"/></a>
-
-👉 My today's project! Currently working on it! More? [Quick Feedback](https://quickfeedback.monster/) 🚀
-
-🔥 Currently working on the Uber app! (affiliate Uber app) - [Uber Repository](https://github.com/rookasrudzianskas/Uber-React-Native)
-
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
