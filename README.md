@@ -1,10 +1,9 @@
-:::- 👋 Hi, I’m @rookasrudzianskas
-- 👀 I’m interested in creating the magical stuff with code and mac 🖤
-- 🌱 I’m currently learning how to deal with data 💻
-- 💞️ I’m looking to collaborate on startup projects and future technologies
-- 📫 How to reach me rudzianskas.rokas@yahoo.com
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-In the continuous update process!😂😇
+
+<p>Welcome to my page! </br> I'm Rokas, AI Student @Milano and developer from <img src="![image](https://github.com/user-attachments/assets/addc23e6-749c-4e39-8a8f-254079dbed65)
+" width="13"/> <b>Vilnius, Lithuania</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<h3>Things I code with</h3>
 
 
 
