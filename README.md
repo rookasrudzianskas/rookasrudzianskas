@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-😂![Uploading image.png…]
+😂![Uploading image.png
 
 <img width="160" alt="image" src="https://github.com/user-attachments/assets/ce6051d4-d6fc-49ef-8f8b-7c576246fe32" />
 
