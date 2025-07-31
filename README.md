@@ -2,7 +2,7 @@
 
 
 
-<img width="160" alt="image" src="https://github.com/user-attachments/assets/ce6051d4-d6fc-49ef-8f8b-7c576246fe32" />
+>
 
 
 <p>Welcome to my page! </br> I'm Rokas, AI Student @Milano and developer from <img src="![image](https://github.com/user-attachments/assets/addc23e6-749c-4e39-8a8f-254079dbed65)
