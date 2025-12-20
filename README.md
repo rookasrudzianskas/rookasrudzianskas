@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-😂😂😂
+😂😂😂<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/d0098ed7-a3e8-4930-b84f-aa7dc7e61ddd" />
+
 
 <p>Welcome to my page! </br> I'm Rokas, AI Student @Milano and developer from <img src="![image](https://github.com/user-attachments/assets/addc23e6-749c-4e39-8a8f-254079dbed65)
 " width="13"/> <b>Vilnius, Lithuania</b>, currently living in <img src="![image](https://github.com/user-attachments/assets/3ca8c971-02c0-47d4-a5a4-a6e25e4681d3)
