@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-🤣🫶😂😂😂<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/17d3b517-2916-47d9-9fb8-0e6115f24fd8" />
+🤣🫶😂😂😂
 
 
 <p>Welcome to my page! </We br> I'm Rokas, AI Student @Milano and developer from <img src="![image](https://github.com/user-attachments/assets/addc23e6-749c-4e39-8a8f-254079dbed65)
