@@ -89,27 +89,30 @@ A couple of projects I've contributed to and helped build along the way.
   </tbody>
 </table>
 
-### Where my week actually went
+### A quick look at my week
 
-<!--START_SECTION:waka-->
-```text
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <b>Where my week actually went</b>
+      <pre>
 REACT     32 hrs 26 mins  ███████████████████████▓░   94.96 %
 Python    10 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 HTML      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 JSON      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-<!--END_SECTION:waka-->
-
-### Todoist keeps me honest
-
-<!-- TODO-IST:START -->
-```text
+      </pre>
+    </td>
+    <td valign="top" width="45%">
+      <b>Todoist keeps me honest</b>
+      <pre>
 Karma points        8,901
 Tasks done today    11
 Tasks completed     904
 Longest streak      123 days
-```
-<!-- TODO-IST:END -->
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ### Come say hi
 
