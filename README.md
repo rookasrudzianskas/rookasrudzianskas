@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Rokas. Nice to see you here.</h1>
 
-🤣😁🤣🤣🫡👌
+🤣😁🤣🤣🫡
 
 I'm an AI student in Milan and a developer who likes building things that actually ship. I work across **Python, JavaScript and Swift**, and lately I've been doing a lot of vibe coding, following the idea more than the boilerplate and letting the project tell me where it wants to go.
 
