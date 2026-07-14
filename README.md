@@ -6,10 +6,6 @@ I'm an AI student in Milan and a developer who likes building things that actual
 
 🇱🇹 Born and raised in **Vilnius, Lithuania** &nbsp;·&nbsp; 🇮🇹 Currently based in **Milan, Italy**
 
-### Latest project
-
-I'm building **[Katchy](https://www.heyyykatchy.com/)**, a friendly AI companion that lives right on your screen and helps you while you work. It's the thing most of my late nights go into right now.
-
 ### What I'm up to
 
 - Studying AI and trying to really understand it, not just import a library and hope
